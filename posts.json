@@ -1,5 +1,5 @@
 {
- "total": 75,
+ "total": 74,
  "posts": [
   {
    "id": 1,
@@ -193,12 +193,6 @@
    "media": [
     "media/p26_1.jpg"
    ]
-  },
-  {
-   "id": 27,
-   "text": "コレ何が正解なんだよマジで\n\nわかるやつ教えて",
-   "media_type": "image",
-   "media": []
   },
   {
    "id": 28,

@@ -1,4 +1,4 @@
-# Posts (75 items)
+# Posts (74 items)
 
 ## ID 1 (video)
 - Media: media/p1_1.mp4
@@ -250,14 +250,6 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 
 ```text
 ぶっちゃけ、この中だと堀北真希がぶっちぎりよなwwwww
-```
-
-## ID 27 (image)
-
-```text
-コレ何が正解なんだよマジで
-
-わかるやつ教えて
 ```
 
 ## ID 28 (images)

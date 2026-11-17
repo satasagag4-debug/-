@@ -1,12 +1,15 @@
 {
  "version": 1,
- "updated_at": "2026-11-17T14:27:00+09:00",
- "total_posts": 75,
+ "updated_at": "2026-11-17T14:32:00+09:00",
+ "total_posts": 74,
  "max_id": 82,
- "rules_version": "2026-11-17-r2",
+ "rules_version": "2026-11-17-r3",
  "files": {
   "posts": "posts.json",
   "rules": "rules.md",
   "rules_json": "rules.json"
- }
+ },
+ "removed_ids": [
+  27
+ ]
 }
