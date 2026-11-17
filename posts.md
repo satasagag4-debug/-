@@ -928,3 +928,12 @@ b²はいくつ？
 ```text
 コレ何が正解なんだよマジで、、
 ```
+
+## ID 99
+- category: `celebrity_trend` / is_celebrity: `true` / delete_after_hours: `40`
+- media: `media/p99_1.jpg`
+- text:
+
+```
+ぶっちゃけ、この中だと斎藤慎二がぶっちぎりよなwwwww
+```
