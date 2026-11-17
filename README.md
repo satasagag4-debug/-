@@ -15,14 +15,15 @@
 | `rules.md` | 運用ルール（Markdown） |
 | `media/` | メディア本体 |
 
-## 取得手順
+## 取得手順（差分チェック・省エネ推奨）
 
-1. `https://raw.githubusercontent.com/satasagag4-debug/-/main/manifest.json` を取得する。
-2. ローカルに保存してある `max_id` と `rules_version` を、取得した manifest の値と比較する。
-3. `max_id` が増えていれば `https://raw.githubusercontent.com/satasagag4-debug/-/main/posts.json` を取得し、`id` がローカルの `max_id` より大きい要素を取り込む。
-4. 取り込む要素の `media` に書かれたパスを `https://raw.githubusercontent.com/satasagag4-debug/-/main/` + そのパス（例 `https://raw.githubusercontent.com/satasagag4-debug/-/main/media/p1_1.mp4`）で取得してローカルに保存する。
-5. `rules_version` が変わっていれば `https://raw.githubusercontent.com/satasagag4-debug/-/main/rules.json`（または `https://raw.githubusercontent.com/satasagag4-debug/-/main/rules.md`）を取得して置き換える。
-6. manifest の `max_id`・`rules_version`・`updated_at` をローカルに記録する。
+1. `https://raw.githubusercontent.com/satasagag4-debug/-/main/manifest.json` だけを取得する（トークン付きでアクセス）。
+2. ローカルに保存してある `max_id`・`rules_version`・`updated_at` を、取得した manifest の値と比較する。
+3. すべて前回と同じであれば、更新なしとしてここで終了する（`posts.json` や `media/` は読みに行かない）。
+4. `max_id` が増えていれば `https://raw.githubusercontent.com/satasagag4-debug/-/main/posts.json` を取得し、`id` がローカルの `max_id` より大きい要素を取り込む。
+5. 取り込む要素の `media` に書かれたパスを `https://raw.githubusercontent.com/satasagag4-debug/-/main/` + そのパス（例 `https://raw.githubusercontent.com/satasagag4-debug/-/main/media/p1_1.mp4`）で取得してローカルに保存する。
+6. `rules_version` が変わっていれば `https://raw.githubusercontent.com/satasagag4-debug/-/main/rules.json`（または `https://raw.githubusercontent.com/satasagag4-debug/-/main/rules.md`）を取得して置き換える。
+7. manifest の `max_id`・`rules_version`・`updated_at` をローカルに記録する。
 
 ## データ仕様
 
