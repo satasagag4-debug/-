@@ -1,4 +1,4 @@
-# Posts (76 items)
+# Posts (90 items)
 
 ## ID 1 (video)
 - Media: media/p1_1.mp4
@@ -792,4 +792,128 @@ b²はいくつ？
 
 ```text
 え、これマジで何、、、？
+```
+
+## ID 85 (video)
+- Media: media/p85_1.mp4
+
+```text
+男の人めっちゃキレてるんだけど別れ話とかなのかな？それとも頭がおかしくなったのかな？と思ってたらそのどっちも違うらしくて怖くなった
+
+闇深すぎるだろ...
+```
+
+## ID 86 (video)
+- Media: media/p86_1.mp4
+
+```text
+日暮里駅で目撃された、迷惑すぎる女性…。
+
+通行人が通るたびに何かを言い、次々と人に絡んでいく姿に周囲も困惑。
+
+普通に駅を利用したいだけなのに、なぜこんなことに…？
+```
+
+## ID 87 (video)
+- Media: media/p87_1.mp4
+
+```text
+ベッドの下に空のペットボトルを投げ捨てていた男性が、ある日奇妙な動きを感じてベッドの下を覗いてみたら…
+
+ペットボトルの中に、血の気が引くようなものが入っていた…
+```
+
+## ID 88 (video)
+- Media: media/p88_1.mp4
+- delete_after_hours: 40
+
+```text
+錦戸亮放送中にこっそりキスしてるなwww
+```
+
+## ID 89 (video)
+- Media: media/p89_1.mp4
+
+```text
+えっ、、、韓国のアイドル番組MCさん、
+生放送中にアイドルから過去の飲酒運転をイジられブチギレ！！
+
+怒りに任せてその場でアイドルをボコッて現場がエグい空気になる
+```
+
+## ID 90 (image)
+- Media: media/p90_1.jpg, media/p90_2.jpg, media/p90_3.jpg
+- delete_after_hours: 40
+
+```text
+何でこんな嘘つくの？
+嘘つく理由が知りたい。
+```
+
+## ID 91 (image)
+- Media: media/p91_1.jpg
+- delete_after_hours: 40
+
+```text
+自腹でタクシーで通勤する何が悪いの？
+これ悪くないですよね？
+```
+
+## ID 92 (image)
+- Media: media/p92_1.jpg, media/p92_2.jpg
+- delete_after_hours: 40
+
+```text
+【悲報】松崎しげる、海外で大炎上wwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+暗闇で見えんやろこれwwwwwwww
+```
+
+## ID 93 (image)
+- Media: media/p93_1.jpg, media/p93_2.jpg
+- delete_after_hours: 40
+
+```text
+自動車保険の営業マン下心丸出しすぎて怖い。
+```
+
+## ID 94 (image)
+- Media: media/p94_1.jpg, media/p94_2.jpg
+- delete_after_hours: 40
+
+```text
+キーエンス社員の1日、一線を越えるｗｗｗｗｗｗｗこんなん３日で発狂するわ
+
+←外回りの日　　　　　　　　　　内勤日→
+```
+
+## ID 95 (image)
+- Media: media/p95_1.jpg, media/p95_2.jpg
+- delete_after_hours: 40
+
+```text
+200円でバトラカになれるだと？！
+```
+
+## ID 96 (image)
+- Media: media/p96_1.jpg, media/p96_2.jpg
+- delete_after_hours: 40
+
+```text
+ジャルジャル後藤のおみくじほんま草
+```
+
+## ID 97 (image)
+- Media: media/p97_1.jpg, media/p97_2.jpg, media/p97_3.jpg, media/p97_4.jpg
+- delete_after_hours: 40
+
+```text
+美容院「チー牛はヤンキーにすればいいんだ」とついに気づく！ｗｗｗｗ
+```
+
+## ID 98 (image)
+- Media: media/p98_1.jpg
+
+```text
+コレ何が正解なんだよマジで、、
 ```
