@@ -1,50 +1,38 @@
-# Posts (90 items)
+# Posts (91 items)
 
-## ID 1 (video)
-- Media: media/p1_1.mp4
-
-```text
+## ID 1
 マジで心臓止まるかと思いました…😭😭
 
 早朝に何か外が騒がしくて目が覚めちゃったからベランダ出てみたらヤバすぎて驚愕した、、、
 何でみんなただ見てるだけで何もしないの？
 
 しかも続きが更にヤバすぎました😭😭
-```
+- media (video): media/p1_1.mp4
 
-## ID 2 (video)
-- Media: media/p2_1.mp4
-
-```text
+## ID 2
 最初何してるのか全然分からなくて何回か見てたんだけど コメ欄で何やってるのか知ってゾッとした😧
 
 海外ではいまだにこういうことがあるって知って余計に怖い 背景知ると普通に見れなくなるやつ…
 
 日本からもう出たくないな…
-```
+- media (video): media/p2_1.mp4
 
-## ID 3 (images)
-- Media: media/p3_1.jpg, media/p3_2.jpg
-
-```text
+## ID 3
 インフルエンサーってホント脇甘すぎなwwwwww
 
 ガラスにこんなの映ってるのアウトだしやってること闇深すぎるでしょ…
-```
+- media (images): media/p3_1.jpg, media/p3_2.jpg
 
-## ID 4 (video)
-- Media: media/p4_1.mp4
-
-```text
+## ID 4
 これ嘘でしょ？？？？？？？
 
 駅のホームがとんでもないことになってて「何が起きたんだろう」とずっと見ながら考えてたんだけど理由知って震えが止まらなくなった、、、
 
 助けて、帰れないんだけど…
-```
+- media (video): media/p4_1.mp4
+- tree_reply:
 
-Tree Reply:
-```text
+```
 こういうことだったみたい、、
 
 怖すぎる、、
@@ -52,17 +40,14 @@ Tree Reply:
 https://momentary.link/V98zwa
 ```
 
-## ID 5 (video)
-- Media: media/p5_1.mp4
-
-```text
+## ID 5
 Appleの入社試験
 
 これが2分で解けたらAppleに入社できるらしいけど、初見じゃ絶対解けないでしょこれwww
-```
+- media (video): media/p5_1.mp4
+- tree_reply:
 
-Tree Reply:
-```text
+```
 問題の答えこれか、、、
 
 そりゃリプ欄の人全員間違えるわけだ、、
@@ -70,118 +55,96 @@ Tree Reply:
 https://linkmisty.com/c/5bam9sb/
 ```
 
-## ID 6 (image)
-- Media: media/p6_1.jpg
-
-```text
+## ID 6
 この問題どういうことなの？？？？？？？
 
 コメント欄で答え知って戦慄したんだけど...
 
 先生ちょっと悪魔すぎない…？
-```
+- media (image): media/p6_1.jpg
 
-## ID 7 (image)
-- Media: media/p7_1.jpg
-
-```text
+## ID 7
 この問題が昨日からずっとわからない
 
 わかる人助けてください、、、、
 
 答え40でも45でもないらしいです、、、
-```
+- media (image): media/p7_1.jpg
 
-## ID 8 (video)
-- Media: media/p8_1.mp4
-
-```text
+## ID 8
 この問題の答えわかる人いる？
 
 ずっと考えてもわからなくて困ってます
 
 ちなみに答え2.5ではないみたいです
-```
+- media (video): media/p8_1.mp4
 
-## ID 9 (video)
-- Media: media/p9_1.mp4
-
-```text
+## ID 9
 助けてください 😭16歳の娘のバッグを勝手に開けたら中にこれらが、たくさん入っているのを発見しました。
 
 これが何かわかる人いますか...？
 
 娘は完全に怒ってて、その話題を避けて教えてくれないんです…余計に気になって仕方ないです
-```
+- media (video): media/p9_1.mp4
 
-## ID 10 (photo)
-- Media: media/p10_1.jpg
-
-```text
+## ID 10
 この問題が昨日からずっとわからないです...     
 
 わかる人助けてください、、、、、、
-```
+- media (photo): media/p10_1.jpg
 
-## ID 11 (video)
-- Media: media/p11_1.mp4
-
-```text
+## ID 11
 右の子が左の子みたいに顔に思いきり当てられない理由ってそういうことだったのか…
 
 芸能界闇深すぎだろ…
-```
+- media (video): media/p11_1.mp4
 
-## ID 12 (video)
-- Media: media/p12_1.mp4
-
-```text
+## ID 12
 え、、めっちゃこわい、、
 
 これ韓国アイドルがホテルに入るとこの映像なんだけど、ホテル入る前にかけた煙の正体知って戦慄した… 
 
 芸能界ってまだこんなことあるんだね…
 闇深すぎるやろ…
-```
+- media (video): media/p12_1.mp4
 
-## ID 13 (video)
-- Media: media/p13_1.mp4
-
-```text
+## ID 13
 「名古屋　酒井駅」に現れた男の人、痴漢でもして取り押さえられてるのかと思ってたけどコメント見て事情知って震えが止まらなくなった、、、、
 
 未だにこういうことってあるんですね、、、
+- media (video): media/p13_1.mp4
+- tree_reply:
+
+```
+こういうことだったんだね、、
+
+ニュースで放送されててなんでこうなってるのかやっとわかった
+
+怖すぎる、、、
+
+https://momentary.link/CebjUE
 ```
 
-## ID 14 (image)
-- Media: media/p14_1.jpg
-
-```text
+## ID 14
 ぶっちゃけこの中だと平野紫耀がぶっちぎりよなwwwww
-```
+- media (image): media/p14_1.jpg
 
-## ID 15 (video)
-- Media: media/p15_1.mp4
-
-```text
+## ID 15
 このアイドルがライブ中なのに下ばっかり触って苦しそうにしてる理由を知った瞬間、全てを察して怖くなった…
 
 芸能界ってやっぱりこんなことあるんですね、、、
-```
+- media (video): media/p15_1.mp4
 
-## ID 16 (video)
-- Media: media/p16_1.mp4
-
-```text
+## ID 16
 ピノのここって何のためにあるか知ってる人いる？？？
 
 お父さんに教えてもらって驚愕した、、、、
 
 やっぱ大企業って賢い人しかいないんだな…
-```
+- media (video): media/p16_1.mp4
+- tree_reply:
 
-Tree Reply:
-```text
+```
 こういうことだったんだ、、、
 
 天才すぎる、、、
@@ -189,10 +152,7 @@ Tree Reply:
 https://momentary.link/WZhQYP
 ```
 
-## ID 17 (mixed)
-- Media: media/p17_1.mp4, media/p17_2.jpg
-
-```text
+## ID 17
 【とても怖いんです助けて…😭】
 
 卵とコーンを茹でてたんだけどトイレから戻って来たら言葉失ったわ、、、、
@@ -200,62 +160,41 @@ https://momentary.link/WZhQYP
 このうにょうにょの正体が何かわかる人いますか…？
 
 プロの方教えてください…卵とコーンは一緒に茹でるとだめなのか…
-```
+- media (mixed): media/p17_1.mp4, media/p17_2.jpg
 
-## ID 18 (images)
-- Media: media/p18_1.jpg, media/p18_2.jpg, media/p18_3.jpg, media/p18_4.jpg
-
-```text
+## ID 18
 セブンイレブンさん、とんでもなく巧妙な罠を仕掛けるｗｗｗｗ
 
 気づいた頃にはもう買ってたwwwww
 
 まじでやってくれたなwww
-```
+- media (images): media/p18_1.jpg, media/p18_2.jpg, media/p18_3.jpg, media/p18_4.jpg
 
-## ID 21 (video)
-- Media: media/p21_1.mp4
-
-```text
+## ID 21
 このオッサンずっと線路に立ってて邪魔してるから頭おかしくなったのかな？と思ってコメント見てたら行動の理由察して背筋が凍りついた
 
 こんなことあっていいんか？？？？？
-```
+- media (video): media/p21_1.mp4
 
-## ID 22 (images)
-- Media: media/p22_1.jpg
-
-```text
+## ID 22
 ぶっちゃけ、この中だと広瀬すずがぶっちぎりだよなwwwww
-```
+- media (images): media/p22_1.jpg
 
-## ID 24 (video)
-- Media: media/p24_1.mp4
-
-```text
+## ID 24
 IVEのウォニョンがイベント中なのに何かに気づいて急に不機嫌になった理由を知った瞬間、全てを察して急に怖くなった…
 
 芸能界っていまだにこういうことってあるんですね？？？
-```
+- media (video): media/p24_1.mp4
 
-## ID 25 (images)
-- Media: media/p25_1.jpg, media/p25_2.jpg
-
-```text
+## ID 25
 このエピソード今まで生きてきた中で1番怖い...
-```
+- media (images): media/p25_1.jpg, media/p25_2.jpg
 
-## ID 26 (image)
-- Media: media/p26_1.jpg
-
-```text
+## ID 26
 ぶっちゃけ、この中だと堀北真希がぶっちぎりよなwwwww
-```
+- media (image): media/p26_1.jpg
 
-## ID 28 (images)
-- Media: media/p28_1.jpg, media/p28_2.jpg
-
-```text
+## ID 28
 旅行から帰ってきた彼氏の腕に
 見たことないブツブツできてて普通に手止まった、、、
 
@@ -263,41 +202,26 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 正直ちょっと浮気まで疑ってる
 
 これ何が原因でできるやつ？
-```
+- media (images): media/p28_1.jpg, media/p28_2.jpg
 
-## ID 29 (images)
-- Media: media/p29_1.jpg, media/p29_2.jpg
-
-```text
+## ID 29
 おばあちゃんから最高の連絡がきて最高の気分になる昼下がり
-```
+- media (images): media/p29_1.jpg, media/p29_2.jpg
 
-## ID 30 (image)
-- Media: media/p30_1.jpg
-
-```text
+## ID 30
 ぶっちゃけ、この中だと目黒蓮がぶっちぎりよなwwwww
-```
+- media (image): media/p30_1.jpg
 
-## ID 31 (video)
-- Media: media/p31_1.mp4
-
-```text
+## ID 31
 台湾のあるエスカレーターのよくある光景
 みんな全く同じポーズなんだけど理由を知ると納得できるwww
-```
+- media (video): media/p31_1.mp4
 
-## ID 32 (image)
-- Media: media/p32_1.jpg
-
-```text
+## ID 32
 ぶっちゃけ、この中だと佐野勇人がぶっちぎりよなwwwww
-```
+- media (image): media/p32_1.jpg
 
-## ID 33 (mixed)
-- Media: media/p33_1.mp4, media/p33_2.jpg, media/p33_3.jpg
-
-```text
+## ID 33
 え、やばやば、なんやこいつ、、
 
 昨日これに刺されてからめっちゃ腫れて
@@ -307,12 +231,9 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 これ何かわかる人いないでしょうか？？
 
 病院行った方がいいの？？
-```
+- media (mixed): media/p33_1.mp4, media/p33_2.jpg, media/p33_3.jpg
 
-## ID 34 (images)
-- Media: media/p34_1.jpg, media/p34_2.jpg
-
-```text
+## ID 34
 キモいのすみませんが、、、
 
 食器棚の下、カビでしょうか....
@@ -320,12 +241,9 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 最近いったん全部退けて綺麗にしたのですが、最近初めて生えてきました…
 
 なんなんこいつ？？( ´•̥̥̥ω•̥̥̥`)
-```
+- media (images): media/p34_1.jpg, media/p34_2.jpg
 
-## ID 35 (images)
-- Media: media/p35_1.jpg, media/p35_2.jpg
-
-```text
+## ID 35
 助けてください😭😭😭
 
 お母ちゃんがこれに刺されてから
@@ -334,30 +252,21 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 時間経っても治まらないよ、、、、
 
 これ何かわかる人いませんか？？？
-```
+- media (images): media/p35_1.jpg, media/p35_2.jpg
 
-## ID 36 (video)
-- Media: media/p36_1.mp4
-
-```text
+## ID 36
 この大学生達が何やってるか分からなくて最初そういう癖の人たちかなと思ってコメ欄見てたら理由知ってゾッとした。。。
 
 闇深すぎて知りたくなかった、、
-```
+- media (video): media/p36_1.mp4
 
-## ID 37 (video)
-- Media: media/p37_1.mp4
-
-```text
+## ID 37
 この女が改札を通ったのにわざわざ戻ってきたからなんか怪しいなと思ってコメント見たら理由察して今戦慄してる、、、
 
 最近の若者ってどんだけ闇深いんだよ。。。。。、。
-```
+- media (video): media/p37_1.mp4
 
-## ID 38 (mixed)
-- Media: media/p38_1.mp4, media/p38_2.jpg
-
-```text
+## ID 38
 息子がキッチンでこれ触ったあとから
 手の震えがずっと止まらなくなって普通に焦ってる、、、
 
@@ -365,23 +274,17 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 時間経っても治まらない
 
 これ何かわかる人いませんか？？？？？
-```
+- media (mixed): media/p38_1.mp4, media/p38_2.jpg
 
-## ID 39 (images)
-- Media: media/p39_1.jpg, media/p39_2.jpg
-
-```text
+## ID 39
 ねぇ、これ何なのぉぉお！？😭😭  
 
 今仕事終わって車乗ろうとしたらタイヤに何かついてて拡大して見みたら衝撃的すぎて背筋ゾッと悶絶しちゃいました、、、  
 
 これ何かわかる人いたら教えて下さいマジで帰れなくて困ってます😭😭
-```
+- media (images): media/p39_1.jpg, media/p39_2.jpg
 
-## ID 40 (mixed)
-- Media: media/p40_1.mp4, media/p40_2.jpg
-
-```text
+## ID 40
 え、これ何、、！？😱😱
 
 韓国料理のコース食べに来たんだけど1品目から見たことない食べ物きて鳥肌ヤバい😭😭
@@ -389,12 +292,9 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 エイリアンの足にしか見えないしこれって食べれるんですか？？
 
 有識者の方いたら教えて下さい😭😭
-```
+- media (mixed): media/p40_1.mp4, media/p40_2.jpg
 
-## ID 41 (images)
-- Media: media/p41_1.jpg, media/p41_2.jpg
-
-```text
+## ID 41
 ねぇ、マジ最悪だ、、、😭😭
 
 家帰ってきたらめちゃくちゃデカい蛾がいたんですけど、、、
@@ -402,21 +302,15 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 これ何なんですか、、外来種ですか、、？
 
 有識者の方いたら教えて下さい😭😭
-```
+- media (images): media/p41_1.jpg, media/p41_2.jpg
 
-## ID 42 (mixed)
-- Media: media/p42_1.mp4, media/p42_2.jpg
-
-```text
+## ID 42
 お姉ちゃんがこれに刺されてからめっちゃ腫れてて1日じゅう手が震えてて止まりません、、、
 
 もう1週間も腫れが引かないのですがこれ何か分かる人いませんか？😭
-```
+- media (mixed): media/p42_1.mp4, media/p42_2.jpg
 
-## ID 43 (mixed)
-- Media: media/p43_1.mp4, media/p43_2.jpg
-
-```text
+## ID 43
 【教えて頂けますか…？】
 
 中学生の妹のカバンの中にこれが大量に入っているのを発見してしまいました、、
@@ -424,182 +318,125 @@ IVEのウォニョンがイベント中なのに何かに気づいて急に不�
 これ何か分かる人いますか？
 
 妹は完全にその話題を避けてて私とは話してくれません...😭
-```
+- media (mixed): media/p43_1.mp4, media/p43_2.jpg
 
-## ID 44 (video)
-- Media: media/p44_1.mp4
-
-```text
+## ID 44
 このふざけてる女性最初ハメ外して酒飲みすぎただけかなと思ったら違うらしく、理由知って怖くなった  
 
 周りの男なんなんだよ、、闇深すぎる、、、、、、
-```
+- media (video): media/p44_1.mp4
 
-## ID 47 (image)
-- Media: media/p47_1.jpg
-
-```text
+## ID 47
 ぶっちゃけ、この中だとラウールがぶっちぎりよなwwwww
-```
+- media (image): media/p47_1.jpg
 
-## ID 48 (mixed)
-- Media: media/p48_1.mp4, media/p48_2.jpg
-
-```text
+## ID 48
 えっ、、、リュジン！？！？
 
 それはヤバくない？？？🫣🫣
 
 ITZYリュジンがライブ中なのに下ばっか触って苦しそうにしてる理由知った瞬間、全てを察してゾッとしたわ…
-```
+- media (mixed): media/p48_1.mp4, media/p48_2.jpg
 
-## ID 49 (video)
-- Media: media/p49_1.mp4
-
-```text
+## ID 49
 これ解ける人いる？？？
 
 答え12でしょ？って思ったら違うらしくて、そこからずっと考えてるんだけど全然わからない、、
 
 分かる人いたら教えてください🙏
-```
+- media (video): media/p49_1.mp4
 
-## ID 51 (image)
-- Media: media/p51_1.jpg
-
-```text
+## ID 51
 ぶっちゃけ、この中だと山田涼介がぶっちぎりよなwwwww
-```
+- media (image): media/p51_1.jpg
 
-## ID 52 (video)
-- Media: media/p52_1.mp4
-
-```text
+## ID 52
 小学1年生の宿題です。
 
 何回見てもわからないんですが
 わかる人いますか？
-```
+- media (video): media/p52_1.mp4
 
-## ID 53 (video)
-- Media: media/p53_1.mp4
-
-```text
+## ID 53
 うわわわわ、、、
 
 どういう育ち方したらこんな風になれるの、、、？？ 
 
 やっぱり教養って大事なんだね。。。
-```
+- media (video): media/p53_1.mp4
 
-## ID 54 (image)
-- Media: media/p54_1.jpg
-
-```text
+## ID 54
 家系ラーメン好きに聞きたい。
 
 このランキング、1位がここなんだけど…
 
 納得できる？
-```
+- media (image): media/p54_1.jpg
 
-## ID 55 (video)
-- Media: media/p55_1.mp4
-
-```text
+## ID 55
 ベイビーモンスターのアヒョンがライブ中に水を飲んだ直後、急に挙動不審になったので「どうしたんだろ？」って思ってたら、コメント欄で理由知って一気に血の気が引いたよ、、、😭
 芸能界ってこんなことしてるんだね…
-```
+- media (video): media/p55_1.mp4
 
-## ID 56 (image)
-- Media: media/p56_1.jpg, media/p56_2.jpg, media/p56_3.jpg
-
-```text
+## ID 56
 新幹線でラブライバーの後ろのババアがナイフ取り出しててまじで何事？と思ったけど画像よくみて理由察して震え上がった
 
 マジで皆さんも気をつけてください
-```
+- media (image): media/p56_1.jpg, media/p56_2.jpg, media/p56_3.jpg
 
-## ID 57 (image)
-- Media: media/p57_1.jpg, media/p57_2.jpg
-
-```text
+## ID 57
 え、これ何なの？？脳みそみたいだけど太ももから出てきたんだが😭😭😭
-```
+- media (image): media/p57_1.jpg, media/p57_2.jpg
 
-## ID 58 (image)
-- Media: media/p58_1.jpg
-
-```text
+## ID 58
 シンプルな計算なのに意外な答えになるらしい。
 
 b²はいくつ？
 
 これ答え81じゃないの？
-```
+- media (image): media/p58_1.jpg
 
-## ID 59 (video)
-- Media: media/p59_1.mp4
-
-```text
+## ID 59
 え、なにこの行列
 
 電車乗ろうと駅近く通ったら人ギチギチで歩けない、、、
 
 助けてください、遅れちゃう、、
-```
+- media (video): media/p59_1.mp4
 
-## ID 60 (image)
-- Media: media/p60_1.jpg, media/p60_2.jpg, media/p60_3.jpg
-
-```text
+## ID 60
 ハンターハンターの一番くじでA賞メルエムを開封した方に質問
 
 2枚目の画像の部品がメルエムと一緒に入ってたんだけど何に使うのか全く分からずゴン状態です
 
 これって何に使うんですか？？
-```
+- media (image): media/p60_1.jpg, media/p60_2.jpg, media/p60_3.jpg
 
-## ID 61 (image)
-- Media: media/p61_1.jpg
-
-```text
+## ID 61
 この大量のタグってマジでどういうことなの？
-```
+- media (image): media/p61_1.jpg
 
-## ID 62 (video)
-- Media: media/p62_1.mp4
-
-```text
+## ID 62
 ホテル入る前の監視カメラ映像らしいんだけど、これマジ…？
 
 スタッフっぽい男性が吹きかけてる煙、最初は除菌スプレーかと思ってたんだけどコメ欄見て背筋凍った…
 
 芸能界の裏側って本当にこういうこと平気で行われてるの…？怖すぎるんだけど😧
-```
+- media (video): media/p62_1.mp4
 
-## ID 63 (image)
-- Media: media/p63_1.jpg
-
-```text
+## ID 63
 ぶっちゃけ、この中だと松村北斗がぶっちぎりよなwwwww
-```
+- media (image): media/p63_1.jpg
 
-## ID 64 (video)
-- Media: media/p64_1.mp4
-
-```text
+## ID 64
 うわ、、まぢあぶないわ、、
 
 この電車、ドア付近で人を押さえつけたり無理やり押し退けたりする人たちがいて、何が起きてるのか分からなくてコメ欄見たら理由知って背筋凍りついたわ、、、
 
 これマジでやばすぎるだろ、、、、、
-```
+- media (video): media/p64_1.mp4
 
-## ID 66 (image)
-- Media: media/p66_1.jpg
-
-```text
+## ID 66
 【緊急】
 
 夫の鞄から出てきました。。。
@@ -609,55 +446,40 @@ b²はいくつ？
 
 これはなんでしょうか？？
 わかる人教えていただけませんか？？
-```
+- media (image): media/p66_1.jpg
 
-## ID 67 (image)
-- Media: media/p67_1.jpg
-
-```text
+## ID 67
 ぎぃぃやぁぁぁーーwww
 
 マイナンバーカードのこれ捨てたらダメな理由教えてもらって戦慄した。。。
 
 泣きながら実家探し回ってます。。。
-```
+- media (image): media/p67_1.jpg
 
-## ID 68 (image)
-- Media: media/p68_1.jpg
-
-```text
+## ID 68
 便座のここって何で空いてるんだろう？ってずっと思ってたんだけど理由知って驚愕した。。。
 
 今まで知らずに使ってて損してた。。
 
 まじか。。😳
-```
+- media (image): media/p68_1.jpg
 
-## ID 69 (image)
-- Media: media/p69_1.jpg
-
-```text
+## ID 69
 この問題正解わからないしイライラしてきた...
 
 心優しい人教えてください...(泣)
-```
+- media (image): media/p69_1.jpg
 
-## ID 70 (image)
-- Media: media/p70_1.jpg
-
-```text
+## ID 70
 【緊急です🚨】
 
 🌰と🐿️の横になんかいる……
 とろうとしてもとれないし、日に日に大きくなってる気がする、、、
 
 どうしたらいいの？？これはなんなの？？
-```
+- media (image): media/p70_1.jpg
 
-## ID 71 (video)
-- Media: media/p71_1.mp4
-
-```text
+## ID 71
 このオッサンやばすぎるわ、、、
 
 タバコを何回も吸ってはすぐに捨ててを繰り返してて頭大丈夫かな？？って思ってコメント見てたら、、
@@ -665,32 +487,23 @@ b²はいくつ？
 行動の理由察して背筋凍りついた、、、
 
 こんなことあっていいん？？？？
-```
+- media (video): media/p71_1.mp4
 
-## ID 72 (image)
-- Media: media/p72_1.jpg
-
-```text
+## ID 72
 この問題、実はほとんどの人が解けないらしいんだけど、、
 
 解ける人っている？？？
-```
+- media (image): media/p72_1.jpg
 
-## ID 73 (video)
-- Media: media/p73_1.mp4
-
-```text
+## ID 73
 助けてください！！！ 😭
 
 嫁が岩の根元でこんなものを見つけて、触ってしまい、手が腫れ始めて赤くなっています。。。
 
 これが何かわかる人いますか？？？？
-```
+- media (video): media/p73_1.mp4
 
-## ID 74 (video)
-- Media: media/p74_1.mp4
-
-```text
+## ID 74
 これ泣いてしまうわ。。
 
 息子が亡くなった後、息子の部屋を掃除しようと入った母親は、ただ思い出や古い物しか見つからないと思っていました…
@@ -698,40 +511,28 @@ b²はいくつ？
 しかし、部屋の中で見つけたものは、彼女を衝撃のあまり崩れ落ちさせ、地面に倒れ込ませました。。
 
 まぢで可哀想。。
-```
+- media (video): media/p74_1.mp4
 
-## ID 75 (image)
-- Media: media/p75_1.jpg
-
-```text
+## ID 75
 ぶっちゃけ、この中だと中島健人がぶっちぎりよなwwwww
-```
+- media (image): media/p75_1.jpg
 
-## ID 76 (photo)
-- Media: media/p76_1.jpg, media/p76_2.jpg
-
-```text
+## ID 76
 質問。
 
 これって何のメンバーズカードですか？
-```
+- media (photo): media/p76_1.jpg, media/p76_2.jpg
 
-## ID 77 (photo)
-- Media: media/p77_1.jpg
-
-```text
+## ID 77
 クラスの集合写真を見た母親
 
 これを見た母親は
 「うちの子はいじめられてる」と学校へ怒りの電話
 
 なぜわかった？
-```
+- media (photo): media/p77_1.jpg
 
-## ID 78 (video)
-- Media: media/p78_1.mp4
-
-```text
+## ID 78
 🚨え、何事！？！？😳💨
 
 大阪・ミナミの宗右衛門町付近で、
@@ -744,21 +545,15 @@ b²はいくつ？
 一体何が起きてるんだ？？？
 
 情報知ってる人いますか！？👀
-```
+- media (video): media/p78_1.mp4
 
-## ID 79 (video)
-- Media: media/p79_1.mp4
-
-```text
+## ID 79
 最近若い子の間で、飲みに行く時にこれを飲み込むのが流行ってるらしいんだけど、これが何かわかった瞬間、血の気が引いたよ、、、
 
 未だにこんなことして大丈夫なのか…？
-```
+- media (video): media/p79_1.mp4
 
-## ID 80 (photo)
-- Media: media/p80_1.jpg
-
-```text
+## ID 80
 娘から母に届いた1枚の写真。
 
 娘「この前話した彼氏だよ！ご飯作ってくれたの！今度紹介するね！」
@@ -766,174 +561,106 @@ b²はいくつ？
 母「その人とは、すぐに別れなさい」
 
 母は写真の何に気づいた？？
-```
+- media (photo): media/p80_1.jpg
 
-## ID 81 (video)
-- Media: media/p81_1.mp4
-
-```text
+## ID 81
 この男の子が改札を変な通り方してんなーと思ってずっと見てたら変な歩き方の理由知って震えが止まらなくなった…
 
 いまだにこういう事ってあるの？？
 
 世の中って闇深いんですね、、、、
-```
+- media (video): media/p81_1.mp4
 
-## ID 82 (photo)
-- Media: media/p82_1.jpg
-
-```text
+## ID 82
 9割の大人が答えられないけど、
 
  分かった時に「おおおお〜〜〜！」ってなる問題、、、
-```
+- media (photo): media/p82_1.jpg
 
-## ID 83 (video)
-- Media: media/p83_1.mp4
-
-```text
+## ID 83
 こんなに無理して男さんが盛り上げてるのにウォニョンが知らんぷりでネイルを気にしてる、、、
 
 けど理由知ったら納得。。
 韓国の芸能界って日本よりも闇深すぎるわ...
-```
+- media (video): media/p83_1.mp4
 
-## ID 84 (video)
-- Media: media/p84_1.mp4
-
-```text
+## ID 84
 え、これマジで何、、、？
-```
+- media (video): media/p84_1.mp4
 
-## ID 85 (video)
-- Media: media/p85_1.mp4
-
-```text
+## ID 85
 男の人めっちゃキレてるんだけど別れ話とかなのかな？それとも頭がおかしくなったのかな？と思ってたらそのどっちも違うらしくて怖くなった
 
 闇深すぎるだろ...
-```
+- media (video): media/p85_1.mp4
 
-## ID 86 (video)
-- Media: media/p86_1.mp4
-
-```text
+## ID 86
 日暮里駅で目撃された、迷惑すぎる女性…。
 
 通行人が通るたびに何かを言い、次々と人に絡んでいく姿に周囲も困惑。
 
 普通に駅を利用したいだけなのに、なぜこんなことに…？
-```
+- media (video): media/p86_1.mp4
 
-## ID 87 (video)
-- Media: media/p87_1.mp4
-
-```text
+## ID 87
 ベッドの下に空のペットボトルを投げ捨てていた男性が、ある日奇妙な動きを感じてベッドの下を覗いてみたら…
 
 ペットボトルの中に、血の気が引くようなものが入っていた…
-```
+- media (video): media/p87_1.mp4
 
-## ID 88 (video)
-- Media: media/p88_1.mp4
-- delete_after_hours: 40
-
-```text
+## ID 88
 錦戸亮放送中にこっそりキスしてるなwww
-```
+- media (video): media/p88_1.mp4
 
-## ID 89 (video)
-- Media: media/p89_1.mp4
-
-```text
+## ID 89
 えっ、、、韓国のアイドル番組MCさん、
 生放送中にアイドルから過去の飲酒運転をイジられブチギレ！！
 
 怒りに任せてその場でアイドルをボコッて現場がエグい空気になる
-```
+- media (video): media/p89_1.mp4
 
-## ID 90 (image)
-- Media: media/p90_1.jpg, media/p90_2.jpg, media/p90_3.jpg
-- delete_after_hours: 40
-
-```text
+## ID 90
 何でこんな嘘つくの？
 嘘つく理由が知りたい。
-```
+- media (image): media/p90_1.jpg, media/p90_2.jpg, media/p90_3.jpg
 
-## ID 91 (image)
-- Media: media/p91_1.jpg
-- delete_after_hours: 40
-
-```text
+## ID 91
 自腹でタクシーで通勤する何が悪いの？
 これ悪くないですよね？
-```
+- media (image): media/p91_1.jpg
 
-## ID 92 (image)
-- Media: media/p92_1.jpg, media/p92_2.jpg
-- delete_after_hours: 40
-
-```text
+## ID 92
 【悲報】松崎しげる、海外で大炎上wwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 暗闇で見えんやろこれwwwwwwww
-```
+- media (image): media/p92_1.jpg, media/p92_2.jpg
 
-## ID 93 (image)
-- Media: media/p93_1.jpg, media/p93_2.jpg
-- delete_after_hours: 40
-
-```text
+## ID 93
 自動車保険の営業マン下心丸出しすぎて怖い。
-```
+- media (image): media/p93_1.jpg, media/p93_2.jpg
 
-## ID 94 (image)
-- Media: media/p94_1.jpg, media/p94_2.jpg
-- delete_after_hours: 40
-
-```text
+## ID 94
 キーエンス社員の1日、一線を越えるｗｗｗｗｗｗｗこんなん３日で発狂するわ
 
 ←外回りの日　　　　　　　　　　内勤日→
-```
+- media (image): media/p94_1.jpg, media/p94_2.jpg
 
-## ID 95 (image)
-- Media: media/p95_1.jpg, media/p95_2.jpg
-- delete_after_hours: 40
-
-```text
+## ID 95
 200円でバトラカになれるだと？！
-```
+- media (image): media/p95_1.jpg, media/p95_2.jpg
 
-## ID 96 (image)
-- Media: media/p96_1.jpg, media/p96_2.jpg
-- delete_after_hours: 40
-
-```text
+## ID 96
 ジャルジャル後藤のおみくじほんま草
-```
+- media (image): media/p96_1.jpg, media/p96_2.jpg
 
-## ID 97 (image)
-- Media: media/p97_1.jpg, media/p97_2.jpg, media/p97_3.jpg, media/p97_4.jpg
-- delete_after_hours: 40
-
-```text
+## ID 97
 美容院「チー牛はヤンキーにすればいいんだ」とついに気づく！ｗｗｗｗ
-```
+- media (image): media/p97_1.jpg, media/p97_2.jpg, media/p97_3.jpg, media/p97_4.jpg
 
-## ID 98 (image)
-- Media: media/p98_1.jpg
-
-```text
+## ID 98
 コレ何が正解なんだよマジで、、
-```
+- media (image): media/p98_1.jpg
 
 ## ID 99
-- category: `celebrity_trend` / is_celebrity: `true` / delete_after_hours: `40`
-- media: `media/p99_1.jpg`
-- text:
-
-```
 ぶっちゃけ、この中だと斎藤慎二がぶっちぎりよなwwwww
-```
+- media (image): media/p99_1.jpg
