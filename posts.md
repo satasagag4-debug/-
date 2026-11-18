@@ -853,3 +853,15 @@ https://momentary.link/WZhQYP
 
 だれかわかる人いますか？
 - media (image): media/p126_1.jpg
+
+## ID 127
+- media_type: video
+- media: media/p127_1.mp4
+
+```text
+【悲報】注射を全力で拒否する女の子、理由がガチすぎた💉😭
+
+このレベルだと打つ側も困惑するし打ちたくなくなるやつww
+
+なんでだろう?って思ってたらコメ欄で理由を知って全部納得した、、、
+```
