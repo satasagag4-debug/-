@@ -1,13 +1,14 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T16:26:00+09:00",
+ "updated_at": "2026-11-18T17:33:00+09:00",
  "total_posts": 118,
  "max_id": 126,
- "rules_version": "2026-11-18-r22",
+ "rules_version": "2026-11-18-r23",
  "files": {
   "posts": "posts.json",
   "rules": "rules.md",
-  "rules_json": "rules.json"
+  "rules_json": "rules.json",
+  "precheck_script": "scripts/precheck_slot.py"
  },
  "removed_ids": [
   27

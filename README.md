@@ -13,6 +13,7 @@
 | `posts.md` | 投稿一覧（Markdown） |
 | `rules.json` | 運用ルール（JSON） |
 | `rules.md` | 運用ルール（Markdown） |
+| `scripts/precheck_slot.py` | 定期枠開始前の自動チェック用軽量スクリプト（任意・推奨） |
 | `media/` | メディア本体 |
 
 ## 取得手順（差分チェック・省エネ推奨）
