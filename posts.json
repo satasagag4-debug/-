@@ -1092,9 +1092,41 @@
       "media": [
         "media/p132_1.mp4"
       ]
+    },
+    {
+      "id": 133,
+      "text": "いや、ちょっと待って…。\n\nラーメン屋で出てきたチャーシュー、なんか動いてるんだけど…。\n\n最初は気のせいかと思ったけど、よく見ると…。\n\nこれ何が起きてるか分かる人いる？",
+      "media_type": "video",
+      "media": [
+        "media/p133_1.mp4"
+      ],
+      "category": "visual_shocking"
+    },
+    {
+      "id": 134,
+      "text": "【話題】\n戦慄かなのが久しぶりに動画を公開。\n\n本棚がヤバすぎる...",
+      "media_type": "image",
+      "media": [
+        "media/p134_1.jpg"
+      ],
+      "is_celebrity": true,
+      "source_list": "2122594457271070969",
+      "cooldown_days": 21,
+      "cleanup_after_days": 30
+    },
+    {
+      "id": 135,
+      "text": "【完全一致】芸能人とそっくりすぎる人物・キャラ・食べ物\n\nここまで似てるともはや奇跡だろww\n\n右上が1番やばい🤣🤣🤣",
+      "media_type": "image",
+      "media": [
+        "media/p135_1.jpg"
+      ],
+      "source_list": "2122594457271070969",
+      "cooldown_days": 21,
+      "cleanup_after_days": 30
     }
   ],
-  "updated_at": "2026-11-18T22:28:00+09:00",
-  "total_posts": 124,
-  "max_id": 132
+  "updated_at": "2026-11-19T02:28:00+09:00",
+  "total_posts": 127,
+  "max_id": 135
 }
