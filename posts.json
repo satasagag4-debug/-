@@ -1281,6 +1281,16 @@
       "tree_reply": null,
       "category": "shock_visual",
       "is_train": true
+    },
+    {
+      "id": 150,
+      "text": "弟の部屋を掃除してたらこれが大量に出てきて、何か分からなかった。弟に聞いたら話をはぐらかすし、お父さんも今めちゃくちゃ怒ってる😭\n\n誰かこれが何か知ってる？",
+      "media_type": "image",
+      "media": [
+        "media/p150_1.jpg"
+      ],
+      "tree_reply": null,
+      "category": "quiz_puzzle"
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
