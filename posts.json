@@ -1248,6 +1248,17 @@
       ],
       "tree_reply": null,
       "category": "quiz_puzzle"
+    },
+    {
+      "id": 147,
+      "text": "インスタのこの二つの表示の違いが永遠に謎だったけど最近理由知って納得した",
+      "media_type": "image",
+      "media": [
+        "media/p147_1.jpg",
+        "media/p147_2.jpg"
+      ],
+      "tree_reply": null,
+      "category": "quiz_puzzle"
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
