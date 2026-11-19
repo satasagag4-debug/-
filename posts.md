@@ -1038,3 +1038,15 @@ TWICEのナヨンとモモが交際関係を認める！
 
 https://linkmisty.com/c/aey8xgm8t/
 ```
+
+## ID 143
+- media: none (text only)
+- delete_after_hours: 40
+
+```text
+え、これまじ？
+
+TWICEのナヨンとモモが交際関係を認める！
+
+https://linkmisty.com/c/aey8xgm8t/
+```
