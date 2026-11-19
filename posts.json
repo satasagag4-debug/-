@@ -1259,6 +1259,17 @@
       ],
       "tree_reply": null,
       "category": "quiz_puzzle"
+    },
+    {
+      "id": 148,
+      "text": "え、え、え？？？\nこのダンベルなんで2キロって書いてあるのに7キロの重さなの！？\n\n誰か教えてください、、、",
+      "media_type": "image",
+      "media": [
+        "media/p148_1.jpg",
+        "media/p148_2.jpg"
+      ],
+      "tree_reply": null,
+      "category": "quiz_puzzle"
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
