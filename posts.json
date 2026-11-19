@@ -1217,6 +1217,17 @@
       "category": "celebrity_trend",
       "is_celebrity": true,
       "delete_after_hours": 40
+    },
+    {
+      "id": 144,
+      "text": "本気で心臓止まるかと思った…😭😭\n\n駅の改札で、駅員さんが外国人の男性にブチギレしてて、窓口から身を乗り出して怒鳴る声が改札中に響いてて周りの人もみんな固まってた、、、\n\n何が起きたらこうなるの？？\n\nしかもこの後が更にヤバかったです😭😭",
+      "media_type": "video",
+      "media": [
+        "media/p144_1.mp4"
+      ],
+      "tree_reply": null,
+      "category": "shock_visual",
+      "is_train": true
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
