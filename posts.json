@@ -1270,6 +1270,17 @@
       ],
       "tree_reply": null,
       "category": "quiz_puzzle"
+    },
+    {
+      "id": 149,
+      "text": "電車の中がとんでもないことになっててマジでどういうこと？と思ったけど殴り合いになってる理由知って戦慄した\n\nいまだにこういうことってあるんだ...",
+      "media_type": "video",
+      "media": [
+        "media/p149_1.mp4"
+      ],
+      "tree_reply": null,
+      "category": "shock_visual",
+      "is_train": true
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
