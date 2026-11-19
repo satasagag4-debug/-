@@ -1024,3 +1024,17 @@ TikTokライブにて、神配信を行なってしまう。
 ```text
 ぶっちゃけ、この中だと目黒蓮がぶっちぎりよなwwwww
 ```
+
+## ID 142
+- media: none (text only)
+- delete_after_hours: 40
+
+```text
+え、これまじ？
+
+TWICEのナヨンとモモが交際関係を認める！
+
+#TWICE #モモ #ナヨン
+
+https://linkmisty.com/c/aey8xgm8t/
+```
