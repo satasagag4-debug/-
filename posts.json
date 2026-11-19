@@ -1124,6 +1124,20 @@
       "source_list": "2122594457271070969",
       "cooldown_days": 21,
       "cleanup_after_days": 30
+    },
+    {
+      "id": 136,
+      "title": "元ジャンポケ斉藤慎二被告 TikTokライブ神配信",
+      "text": "元ジャングルポケット斉藤慎二被告\nTikTokライブにて、神配信を行なってしまう。\nなお、約2万人が見届けた模様。",
+      "media_type": "video",
+      "media": [
+        "media/p136_1.mp4"
+      ],
+      "is_celebrity": true,
+      "delete_after_hours": 40,
+      "priority_note": "3日間（2026-11-19〜2026-11-22）全アカウントで1回はポスト",
+      "priority_until": "2026-11-22T23:59:59+09:00",
+      "added_at": "2026-11-19T13:35:00+09:00"
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",
