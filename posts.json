@@ -1228,6 +1228,16 @@
       "tree_reply": null,
       "category": "shock_visual",
       "is_train": true
+    },
+    {
+      "id": 145,
+      "text": "iPhoneのアラーム音がたまに鳴らない理由を知って2026年で一番衝撃受けた\n\niPhoneってやっぱりすごいんだなぁ",
+      "media_type": "image",
+      "media": [
+        "media/p145_1.jpg"
+      ],
+      "tree_reply": null,
+      "category": "quiz_puzzle"
     }
   ],
   "updated_at": "2026-11-19T02:28:00+09:00",

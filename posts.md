@@ -1064,3 +1064,12 @@ https://linkmisty.com/c/aey8xgm8t/
 
 しかもこの後が更にヤバかったです😭😭
 ```
+
+## ID 145
+- media: `media/p145_1.jpg`
+
+```text
+iPhoneのアラーム音がたまに鳴らない理由を知って2026年で一番衝撃受けた
+
+iPhoneってやっぱりすごいんだなぁ
+```
