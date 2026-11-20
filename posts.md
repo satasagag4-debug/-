@@ -1164,7 +1164,7 @@ https://linkmisty.com/c/dna9tl664125/
 何が起きてるのかすらわからなくてパニックです。本当に困ってます助けてください
 
 ### ID 156 (shock_visual)
-- 媒体: media/p156_1.jpg 〜 media/p156_4.jpg
+- 媒体: media/p156_1.jpg 〜 media/p156_6.jpg
 - 本文:
 担当が100万返してくれないから
 代表に言うって言った瞬間に敬語になったwwwww
