@@ -1291,9 +1291,18 @@
       ],
       "tree_reply": null,
       "category": "quiz_puzzle"
+    },
+    {
+      "id": 151,
+      "category": "celebrity_trend",
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "text": "嵐デビュー27周年㊗️🎉\nファンの皆様おめでとうございます！\n\nそして松潤🎉結婚おめでとう🎉\n\n二宮くんのコメント素敵🥰\n\n#嵐\n\nhttps://linkmisty.com/c/dna9tl664125/",
+      "media": [],
+      "added_at": "2026-11-20T11:36:40+09:00"
     }
   ],
-  "updated_at": "2026-11-19T02:28:00+09:00",
-  "total_posts": 127,
-  "max_id": 135
+  "updated_at": "2026-11-20T11:36:40+09:00",
+  "total_posts": 143,
+  "max_id": 151
 }
