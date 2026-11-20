@@ -1320,9 +1320,23 @@
       ],
       "source_url": "https://x.com/FalconryFinance/status/2123435087304020124",
       "added_at": "2026-11-20T15:00:43+09:00"
+    },
+    {
+      "id": 154,
+      "category": "shock_visual",
+      "text": "バイト先の先輩キッッッショwwwwwwwwwwwwwwwwwwwwwwwwwww‼️‼️‼️‼️",
+      "media_files": [
+        "media/p154_1.jpg",
+        "media/p154_2.jpg"
+      ],
+      "is_celebrity": false,
+      "delete_after_40h": false,
+      "is_train": false,
+      "source_url": "https://x.com/NoticiasDeAgro/status/2117617220713091188",
+      "added_at": "2026-11-20T17:24:58+09:00"
     }
   ],
-  "updated_at": "2026-11-20T15:00:43+09:00",
-  "total_posts": 145,
-  "max_id": 153
+  "updated_at": "2026-11-20T17:24:58+09:00",
+  "total_posts": 146,
+  "max_id": 154
 }

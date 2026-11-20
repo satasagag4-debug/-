@@ -1146,3 +1146,8 @@ https://linkmisty.com/c/dna9tl664125/
 ```text
 16歳の息子のベッドの下からこれが出てきたんだけど、これ何？？？
 ```
+
+### ID 154 (shock_visual)
+- 媒体: media/p154_1.jpg, media/p154_2.jpg
+- 本文:
+バイト先の先輩キッッッショwwwwwwwwwwwwwwwwwwwwwwwwwww‼️‼️‼️‼️
