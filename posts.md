@@ -810,6 +810,11 @@ b²はいくつ？
 立ってる原因ってなんなん？？
 わかる人いません…？？
 - media (image): media/p121_1.jpg, media/p121_2.jpg
+- tree_reply:
+  米が直立する理由はこれですね。
+  知らないと最初はびっくりしますよね。
+
+  https://linkmisty.com/c/kpmyx2g/
 
 ## ID 122
 引っ越し完了メールを彼女に送ったら、
