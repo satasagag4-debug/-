@@ -1347,9 +1347,25 @@
       "is_train": false,
       "source_url": "https://x.com/inunegi/status/2123348285696184734",
       "added_at": "2026-11-20T17:59:44+09:00"
+    },
+    {
+      "id": 156,
+      "category": "shock_visual",
+      "text": "担当が100万返してくれないから\n代表に言うって言った瞬間に敬語になったwwwww\n\n姫には強気なのに代表に逆らえないとか小物すぎない？😂😂😂",
+      "media_files": [
+        "media/p156_1.jpg",
+        "media/p156_2.jpg",
+        "media/p156_3.jpg",
+        "media/p156_4.jpg"
+      ],
+      "is_celebrity": false,
+      "delete_after_40h": false,
+      "is_train": false,
+      "source_url": "https://x.com/rea_o0xoxo/status/2123677933651009852",
+      "added_at": "2026-11-20T19:24:49+09:00"
     }
   ],
-  "updated_at": "2026-11-20T17:59:44+09:00",
-  "total_posts": 147,
-  "max_id": 155
+  "updated_at": "2026-11-20T19:24:49+09:00",
+  "total_posts": 148,
+  "max_id": 156
 }
