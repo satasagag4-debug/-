@@ -1377,6 +1377,71 @@
       "is_train": false,
       "source_url": "https://x.com/ahaaaann765/status/2123685468609155364",
       "added_at": "2026-11-20T19:26:35+09:00"
+    },
+    {
+      "id": 158,
+      "title": "溝口勇児と細川バレンタインX上バトル",
+      "text": "溝口勇児と細川バレンタイン、X上でバチバチに…\n\n細川の痛烈なツッコミに対し、溝口がまさかの再反論。\n\nネットの反応も面白いことに....",
+      "media_type": "image",
+      "media": [
+        "media/p158_1.jpg"
+      ],
+      "category": "celebrity_trend",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-20T21:06:41.372094+09:00",
+      "delete_after_40h": true,
+      "is_celebrity": true
+    },
+    {
+      "id": 159,
+      "title": "カノックスター×溝口勇児（愛犬リュック）",
+      "text": "【カノックスター×溝口勇児】\n溝口さんのこと、初めてかわいいと思ったw\nわざわざ愛犬を遊ばせに来たのは、かわいすぎるでしょ",
+      "media_type": "video",
+      "media": [
+        "media/p159_1.mp4"
+      ],
+      "category": "celebrity_trend",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-20T21:06:41.372094+09:00",
+      "delete_after_40h": true,
+      "is_celebrity": true
+    },
+    {
+      "id": 160,
+      "title": "この都道府県わかる？（まの平原）",
+      "text": "この都道府県わかる？",
+      "media_type": "image",
+      "media": [
+        "media/p160_1.jpg"
+      ],
+      "category": "quiz_puzzle",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-20T21:06:41.372094+09:00"
+    },
+    {
+      "id": 161,
+      "title": "田んぼひらがなパズル（ムズイ問題）",
+      "text": "ムズイ問題作りました！\n答え分かる人いますか？",
+      "media_type": "image",
+      "media": [
+        "media/p161_1.jpg"
+      ],
+      "category": "quiz_puzzle",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-20T21:06:41.372094+09:00"
+    },
+    {
+      "id": 162,
+      "title": "山手線日暮里LCD 2→4→6→8なぜ？",
+      "text": "なんでこれ2→4→6→8なの！？\n\n1→2→3→4じゃないの！？\n\n誰かわかる人います？？",
+      "media_type": "image",
+      "media": [
+        "media/p162_1.jpg"
+      ],
+      "category": "quiz_puzzle",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-20T21:06:41.372094+09:00",
+      "is_train": true
     }
   ],
   "updated_at": "2026-11-20T19:28:57+09:00",
