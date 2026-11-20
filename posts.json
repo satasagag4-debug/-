@@ -1363,9 +1363,20 @@
       "is_train": false,
       "source_url": "https://x.com/rea_o0xoxo/status/2123677933651009852",
       "added_at": "2026-11-20T19:24:49+09:00"
+    },
+    {
+      "id": 157,
+      "category": "celebrity_trend",
+      "text": "まぢかーー！！\n今日1番のおめでとう㊗️\n\n#めおと日和 #芳根京子 #本田響矢\n\nhttps://linkmisty.com/c/ax62v169740/",
+      "media_files": [],
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "is_train": false,
+      "source_url": "https://x.com/ahaaaann765/status/2123685468609155364",
+      "added_at": "2026-11-20T19:26:35+09:00"
     }
   ],
-  "updated_at": "2026-11-20T19:24:49+09:00",
-  "total_posts": 148,
-  "max_id": 156
+  "updated_at": "2026-11-20T19:26:35+09:00",
+  "total_posts": 149,
+  "max_id": 157
 }

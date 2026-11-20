@@ -1170,3 +1170,13 @@ https://linkmisty.com/c/dna9tl664125/
 代表に言うって言った瞬間に敬語になったwwwww
 
 姫には強気なのに代表に逆らえないとか小物すぎない？😂😂😂
+
+### ID 157 (celebrity_trend / 40h削除対象)
+- 媒体: なし（LinkmistyカードURL）
+- 本文:
+まぢかーー！！
+今日1番のおめでとう㊗️
+
+#めおと日和 #芳根京子 #本田響矢
+
+https://linkmisty.com/c/ax62v169740/
