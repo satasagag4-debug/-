@@ -1,4 +1,4 @@
-# Rules Update (2026-11-20-r36)
+# Rules Update (2026-11-20-r37)
 
 番号は rules.json の items[].no に対応する。
 
