@@ -1445,6 +1445,24 @@
       "source_list": "2123225378663874730",
       "added_at": "2026-11-20T21:06:41.372094+09:00",
       "is_train": true
+    },
+    {
+      "id": 163,
+      "category": "quiz_puzzle",
+      "text": "目が特徴的なキャラクターと聞いて、\n一番最初に誰を思い浮かべましたか？",
+      "media": [
+        "media/p163_1.jpg"
+      ],
+      "source_url": "https://x.com/smile_kun422/status/2123417015537041886"
+    },
+    {
+      "id": 164,
+      "category": "quiz_puzzle",
+      "text": "ラーメン二郎の店内で撮られた1枚の写真。\n\n一見すると普通の食事風景なんだけど…。\n\nよく見ると、明らかにおかしいところがあるwww\n\nこれ30秒以内に気づける人いる？",
+      "media": [
+        "media/p164_1.jpg"
+      ],
+      "source_url": "https://x.com/sue_suue/status/2123643526697431103"
     }
   ],
   "updated_at": "2026-11-20T19:28:57+09:00",

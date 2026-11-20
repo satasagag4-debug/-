@@ -1236,3 +1236,22 @@ https://linkmisty.com/c/ax62v169740/
 
 誰かわかる人います？？
 - media (image): media/p162_1.jpg
+
+## ID 163
+- category: quiz_puzzle
+- media: media/p163_1.jpg
+- text:
+  目が特徴的なキャラクターと聞いて、
+  一番最初に誰を思い浮かべましたか？
+
+## ID 164
+- category: quiz_puzzle
+- media: media/p164_1.jpg
+- text:
+  ラーメン二郎の店内で撮られた1枚の写真。
+  
+  一見すると普通の食事風景なんだけど…。
+  
+  よく見ると、明らかにおかしいところがあるwww
+  
+  これ30秒以内に気づける人いる？
