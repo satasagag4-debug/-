@@ -1255,3 +1255,52 @@ https://linkmisty.com/c/ax62v169740/
   よく見ると、明らかにおかしいところがあるwww
   
   これ30秒以内に気づける人いる？
+
+## ID 165
+- category: quiz_puzzle
+- media: media/p165_1.jpg
+- text:
+  これ9割の大人が間違えるらしい。
+  
+  誰かわかる人いる？？？
+  
+  答え13でも18でもないらしいです、、
+
+## ID 166
+- category: quiz_puzzle
+- media: media/p166_1.jpg
+- text:
+  娘から母に届いた1枚の写真。
+  
+  娘「この前話した彼氏だよ！ご飯作ってくれたの！今度紹介するね！」
+  
+  母「その人とは、すぐに別れなさい」
+  
+  母は写真の何に気づいた？？
+
+## ID 167
+- category: quiz_puzzle
+- media: media/p167_1.jpg
+- text:
+  【問題】
+  
+  好きなアニメを
+  一文だけで説明して下さい。
+
+## ID 168
+- category: quiz_puzzle
+- media: media/p168_1.jpg
+- text:
+  同窓会に行った妻から送られてきた写真。
+  この写真を見た夫は、離婚を決意した。
+  
+  なぜだかわかる？
+
+## ID 169
+- category: quiz_puzzle
+- media: media/p169_1.jpg
+- text:
+  どっちのラーメンが好きですか？
+  
+  Ａ：町中華のラーメン500円
+  Ｂ：専門店のラーメン1300円
