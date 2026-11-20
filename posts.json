@@ -1334,9 +1334,22 @@
       "is_train": false,
       "source_url": "https://x.com/NoticiasDeAgro/status/2117617220713091188",
       "added_at": "2026-11-20T17:24:58+09:00"
+    },
+    {
+      "id": 155,
+      "category": "shock_visual",
+      "text": "え、マジで助けてください\n\n家に帰ろうとしたら道がとんでもないことになってて車がマジで動きません、、コレ何が起きてるんですか？？？\n\nこのままだと帰るの遅くなって明日に響くマジで助けてください\n\n何が起きてるのかすらわからなくてパニックです。本当に困ってます助けてください",
+      "media_files": [
+        "media/p155_1.mp4"
+      ],
+      "is_celebrity": false,
+      "delete_after_40h": false,
+      "is_train": false,
+      "source_url": "https://x.com/inunegi/status/2123348285696184734",
+      "added_at": "2026-11-20T17:59:44+09:00"
     }
   ],
-  "updated_at": "2026-11-20T17:24:58+09:00",
-  "total_posts": 146,
-  "max_id": 154
+  "updated_at": "2026-11-20T17:59:44+09:00",
+  "total_posts": 147,
+  "max_id": 155
 }
