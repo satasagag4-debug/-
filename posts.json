@@ -1310,9 +1310,19 @@
       ],
       "source_url": "https://x.com/anahirockers/status/2123363670621110328",
       "added_at": "2026-11-20T11:38:52+09:00"
+    },
+    {
+      "id": 153,
+      "category": "quiz_puzzle",
+      "text": "16歳の息子のベッドの下からこれが出てきたんだけど、これ何？？？",
+      "media": [
+        "media/p153_1.mp4"
+      ],
+      "source_url": "https://x.com/FalconryFinance/status/2123435087304020124",
+      "added_at": "2026-11-20T15:00:43+09:00"
     }
   ],
-  "updated_at": "2026-11-20T11:38:52+09:00",
-  "total_posts": 144,
-  "max_id": 152
+  "updated_at": "2026-11-20T15:00:43+09:00",
+  "total_posts": 145,
+  "max_id": 153
 }
