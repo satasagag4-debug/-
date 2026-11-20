@@ -825,7 +825,7 @@ b²はいくつ？
 
   リプ欄の人全員間違えてるやん...
 
-  https://linkmisty.com/c/0l55337000/
+  https://linkmisty.com/c/yb4ao776574/
 
 ## ID 121
 ぎぃやぁぁぁ……なんかキモい……
