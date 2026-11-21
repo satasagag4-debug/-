@@ -1554,9 +1554,22 @@
       "source_url": "https://x.com/sol_sansan/status/2123785748868714541",
       "source_author": "@sol_sansan",
       "tree_reply": null
+    },
+    {
+      "id": 173,
+      "category": "shock_visual",
+      "is_train": true,
+      "media_type": "images",
+      "media_files": [
+        "media/preset173_img1.jpg"
+      ],
+      "text": "うわ、、まぢあぶないわ、、\n\n電車スレスレのとこにずっと立ってるおじさんいて「何が起きてるんだろう」と思ってコメ欄見たら行動の理由わかって背筋凍りついた、、、\n\nこんなことあっていいんか？？？？？",
+      "source_url": "https://x.com/aoi_photo2/status/2124002773708812615",
+      "added_at": "2026-11-22T01:18:25+09:00",
+      "notes": "駅ホーム電車スレスレに立つおじさん写真。案2（コメ欄・背筋凍りつき型）で作成・登録"
     }
   ],
-  "updated_at": "2026-11-21T13:50:02+09:00",
+  "updated_at": "2026-11-22T01:18:47+09:00",
   "total_posts": 162,
   "max_id": 170
 }
