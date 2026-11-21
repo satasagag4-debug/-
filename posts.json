@@ -1567,9 +1567,23 @@
       "source_url": "https://x.com/aoi_photo2/status/2124002773708812615",
       "added_at": "2026-11-22T01:18:25+09:00",
       "notes": "駅ホーム電車スレスレに立つおじさん写真。案2（コメ欄・背筋凍りつき型）で作成・登録"
+    },
+    {
+      "id": 174,
+      "category": "shock_visual",
+      "is_train": false,
+      "media_type": "video_and_image",
+      "media_files": [
+        "media/preset174_video.mp4",
+        "media/preset174_img1.jpg"
+      ],
+      "text": "彼女が誕生日にこんなプレゼント欲しいって言ってきたんだけど😭💀\n\n冗談だと思ってたのに本気で欲しがってて、結局買ってあげたら給料のほぼ半分飛んだ…\n\n正直いまでもこれ何に使うのか全然わかってないんだけど、これ買う価値あると思う？",
+      "source_url": "https://x.com/elaoykt/status/2123933289442685118",
+      "added_at": "2026-11-22T03:13:24+09:00",
+      "notes": "インドネシア語バズ投稿の日本語訳版。缶に入った白い謎の物体を箸でつまむ動画＋画像"
     }
   ],
-  "updated_at": "2026-11-22T01:18:47+09:00",
+  "updated_at": "2026-11-22T03:13:28+09:00",
   "total_posts": 162,
   "max_id": 170
 }
