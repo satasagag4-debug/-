@@ -1509,9 +1509,23 @@
         "media/p169_1.jpg"
       ],
       "source_url": "https://x.com/smile_kun422/status/2123694829440020540"
+    },
+    {
+      "id": 170,
+      "title": "夫の鞄から出てきたカプセル（Tu AM-250）",
+      "category": "quiz_puzzle",
+      "text": "【緊急】\n\n夫の鞄から出てきました。。。\n\n動悸が止まりません。\n嫌な予感しかしません。\n\nこれはなんでしょうか？？\nわかる人教えていただけませんか？？",
+      "media_type": "image",
+      "media_files": [
+        "media/p170_1.jpg"
+      ],
+      "delete_after_hours": null,
+      "source_url": "https://x.com/aliemiraran/status/2123674136035881339",
+      "added_at": "2026-11-21T13:50:02+09:00",
+      "notes": "2026-11-21 ユーザー共有。ID 66（坐薬）と同文面だが別写真（赤白カプセル Tu AM-250）。安全性・非重複確認済み。"
     }
   ],
-  "updated_at": "2026-11-20T19:28:57+09:00",
-  "total_posts": 149,
-  "max_id": 157
+  "updated_at": "2026-11-21T13:50:02+09:00",
+  "total_posts": 162,
+  "max_id": 170
 }
