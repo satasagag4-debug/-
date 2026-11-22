@@ -1595,9 +1595,22 @@
       "is_train": true,
       "source_url": "https://x.com/ranggalagie/status/2124151308026589241",
       "added_at": "2026-11-22T12:26:24+09:00"
+    },
+    {
+      "id": 176,
+      "title": "電車ドアに何度も袋を挟むおじさん（理由察してゾッとした）",
+      "text": "このおっさん何度も袋挟んで邪魔してるから頭おかしくなったんな？と思ってコメント見てたら行動の理由察してゾッとした、、、\n\nこんなことあっていいんか？？？",
+      "media_type": "video",
+      "media": [
+        "media/preset176_video.mp4"
+      ],
+      "category": "shock_visual",
+      "is_train": true,
+      "source_url": "https://x.com/bubblezha132/status/2124111190410535175",
+      "added_at": "2026-11-22T12:39:06+09:00"
     }
   ],
-  "updated_at": "2026-11-22T12:38:42+09:00",
+  "updated_at": "2026-11-22T12:39:06+09:00",
   "total_posts": 162,
   "max_id": 170
 }
