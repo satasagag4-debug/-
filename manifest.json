@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T20:40:00+09:00",
-  "total_posts": 195,
-  "max_id": 203,
+  "updated_at": "2026-11-22T20:45:00+09:00",
+  "total_posts": 194,
+  "max_id": 202,
   "rules_version": "2026-11-22-r46",
   "files": {
     "posts": "posts.json",
