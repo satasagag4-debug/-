@@ -1761,6 +1761,136 @@
       "source_list": "2123225378663874730",
       "added_at": "2026-11-22T18:22:00+09:00",
       "is_train": true
+    },
+    {
+      "id": 189,
+      "status": "queued",
+      "category": "humor",
+      "text": "マジで腹ちぎれるくらい笑ったwwww\n\nネットのコメント欄ってたまに天才現れるよなwww",
+      "media_type": "image",
+      "media": [
+        "media/preset189_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124296646465139067",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00"
+    },
+    {
+      "id": 190,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "芸能人12人の昔と今を比較したら、想像以上の変化に衝撃…\n\nよしこが衝撃すぎる",
+      "media_type": "image",
+      "media": [
+        "media/preset190_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124281480352547010",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 191,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "芸能人たちが語る「人間関係の本質」が深すぎる。\n\nたった一言なのに、人生観が変わりそうな言葉ばかり。",
+      "media_type": "image",
+      "media": [
+        "media/preset191_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124126774485504030",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 192,
+      "status": "queued",
+      "category": "question_visual",
+      "text": "ご飯作ろうとしたんだけどさ、、、\nこれってごま油じゃないの！？",
+      "media_type": "image",
+      "media": [
+        "media/preset192_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124147103475941861",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00"
+    },
+    {
+      "id": 193,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "え、これ本当に同じ人なの！？\n\n芸能人のメイク姿とすっぴんを比較した結果…\n\n想像以上のギャップに衝撃すぎる。",
+      "media_type": "image",
+      "media": [
+        "media/preset193_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124264474165313883",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 194,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "【衝撃】あの寺田心くん、ここまで変わっていたのか…\n\n最近の姿と当時を比べると、別人レベル…。\n\n本人が語った目指す姿が凄かった。",
+      "media_type": "image",
+      "media": [
+        "media/preset194_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124088779325714603",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 195,
+      "status": "queued",
+      "category": "humor",
+      "text": "福沢諭吉が最近のSNSを見抜いていた",
+      "media_type": "image",
+      "media": [
+        "media/preset195_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124110959321240061",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00"
+    },
+    {
+      "id": 196,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "元カノが鈴木愛理で\n今カノが白石麻衣って\n\nあなたは一体…\n前世でどれだけ徳積んだんですか…",
+      "media_type": "image",
+      "media": [
+        "media/preset196_img1.jpg",
+        "media/preset196_img2.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124400397972619561",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 197,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "芸能人の卒アルと現在を比較した結果…\n\n昔から完成されてる人もいれば、驚くほど変わった人も。\n\nみんなは誰が一番衝撃だった？",
+      "media_type": "image",
+      "media": [
+        "media/preset197_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124389065646911616",
+      "source_list": "2123224686641463561",
+      "added_at": "2026-11-22T18:28:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
