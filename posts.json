@@ -1904,9 +1904,22 @@
       "added_at": "2026-11-22T18:28:00+09:00",
       "is_celebrity": true,
       "delete_after_40h": true
+    },
+    {
+      "id": 198,
+      "category": "celebrity",
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "title": "ILLITウォンヒ・ステージ動画",
+      "text": "ILLITのウォンヒがステージ中ずっと手が震えてた理由を知った瞬間、全部つながって胸が苦しくなった、、\n\nあんな状況で最後まで笑顔で踊りきるなんて…\n\nいまだにこんなことってあるんですね、、、",
+      "media_type": "video",
+      "media_files": [
+        "media/preset198_video.mp4"
+      ],
+      "added_at": "2026-11-22T19:17:00+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 162,
+  "total_posts": 190,
   "max_id": 170
 }
