@@ -1211,7 +1211,8 @@
       "tree_reply": null,
       "category": "celebrity_trend",
       "is_celebrity": true,
-      "delete_after_hours": 40
+      "delete_after_hours": 40,
+      "is_news": true
     },
     {
       "id": 143,
@@ -1221,7 +1222,8 @@
       "tree_reply": null,
       "category": "celebrity_trend",
       "is_celebrity": true,
-      "delete_after_hours": 40
+      "delete_after_hours": 40,
+      "is_news": true
     },
     {
       "id": 144,
@@ -1304,7 +1306,8 @@
       "delete_after_40h": true,
       "text": "嵐デビュー27周年㊗️🎉\nファンの皆様おめでとうございます！\n\nそして松潤🎉結婚おめでとう🎉\n\n二宮くんのコメント素敵🥰\n\n#嵐\n\nhttps://linkmisty.com/c/dna9tl664125/",
       "media": [],
-      "added_at": "2026-11-20T11:36:40+09:00"
+      "added_at": "2026-11-20T11:36:40+09:00",
+      "is_news": true
     },
     {
       "id": 152,
@@ -1380,7 +1383,8 @@
       "delete_after_40h": true,
       "is_train": false,
       "source_url": "https://x.com/ahaaaann765/status/2123685468609155364",
-      "added_at": "2026-11-20T19:26:35+09:00"
+      "added_at": "2026-11-20T19:26:35+09:00",
+      "is_news": true
     },
     {
       "id": 158,
