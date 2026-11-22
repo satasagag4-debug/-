@@ -1935,9 +1935,20 @@
       "media_type": null,
       "media_files": null,
       "added_at": "2026-11-22T19:56:00+09:00"
+    },
+    {
+      "id": 200,
+      "category": "question_visual",
+      "title": "テーブルに直接山盛りにして食べる女性",
+      "text": "これ最初なに食べてるのか全く分からなかったんだけど…\n\nお皿に盛らずにテーブルに直接山積みにしてるの衝撃すぎて闇深すぎる。こういう文化があるって本当なの？？",
+      "media_type": "video",
+      "media_files": [
+        "media/preset200_video.mp4"
+      ],
+      "added_at": "2026-11-22T20:06:00+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 191,
+  "total_posts": 192,
   "max_id": 170
 }
