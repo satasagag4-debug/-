@@ -1,5 +1,5 @@
 {
-  "total": 119,
+  "total": 169,
   "posts": [
     {
       "id": 1,
@@ -1608,9 +1608,26 @@
       "is_train": true,
       "source_url": "https://x.com/bubblezha132/status/2124111190410535175",
       "added_at": "2026-11-22T12:39:06+09:00"
+    },
+    {
+      "id": 177,
+      "category": "question_visual",
+      "is_train": false,
+      "status": "queued",
+      "media_type": "images",
+      "media_paths": [
+        "media/preset177_img1.jpg",
+        "media/preset177_img2.jpg",
+        "media/preset177_img3.jpg",
+        "media/preset177_img4.jpg"
+      ],
+      "text": "これどういうこと?\n普通にコインパーキング停めてるだけなんだけど\n戻ってきたらなんか意味わからん紙置いてあったんだけど",
+      "source_url": "https://x.com/tkhsrire/status/2124083106676412509",
+      "added_at": "2026-11-22T14:48:36+09:00",
+      "notes": "コインパーキング3番ロックレス駐車・謎の張り紙（「日本語理解できない者を、馬鹿という…」）写真4枚（元5枚のうち先頭4枚）"
     }
   ],
-  "updated_at": "2026-11-22T12:46:13+09:00",
+  "updated_at": "2026-11-22T14:48:36+09:00",
   "total_posts": 162,
   "max_id": 170
 }
