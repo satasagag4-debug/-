@@ -1975,9 +1975,21 @@
       ],
       "added_at": "2026-11-22T20:19:00+09:00",
       "tree_reply": "ぶつかりまくる理由ってこういうことか、、\n\n闇深すぎるだろ、、、\nhttps://linkmisty.com/c/03tv898361/"
+    },
+    {
+      "id": 203,
+      "status": "held_sensitive",
+      "category": "shock_visual",
+      "title": "手術室でレーザー処置を受ける患者（隔離枠）",
+      "text": "最初これ病院で何してるのか全然分からなかったんだけど…\n\nレーザー当ててる理由とこの後の処置を知った瞬間、思わず二度見した😳",
+      "media_type": "video",
+      "media_files": [
+        "media/preset203_video.mp4"
+      ],
+      "added_at": "2026-11-22T20:49:00+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 194,
+  "total_posts": 195,
   "max_id": 170
 }
