@@ -1667,6 +1667,19 @@
       "added_at": "2026-11-22T17:56:00+09:00"
     },
     {
+      "id": 181,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "text": "松村北斗の顔面国宝すぎ...なんで夜職しないんだろう、めちゃくちゃ売れそうなのに",
+      "media_type": "image",
+      "media": [
+        "media/preset181_img1.jpg"
+      ],
+      "added_at": "2026-11-22T18:05:15+09:00"
+    },
+    {
       "id": 182,
       "status": "queued",
       "category": "celebrity_trend",
