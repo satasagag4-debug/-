@@ -157,6 +157,16 @@
       ]
     },
     {
+      "id": 20,
+      "status": "held_sensitive",
+      "category": "female_influencer",
+      "title": null,
+      "text": "【朗報】女子アナさん、レントゲンで🥧の先端にあるアレまで晒されてしまう、、、  \n\nコメントでみたけど下半身のレントゲンも出されてて放送事故すぎてヤバいww",
+      "media_type": "image",
+      "media_files": null,
+      "added_at": null
+    },
+    {
       "id": 21,
       "text": "このオッサンずっと線路に立ってて邪魔してるから頭おかしくなったのかな？と思ってコメント見てたら行動の理由察して背筋が凍りついた\n\nこんなことあっていいんか？？？？？",
       "media_type": "video",
@@ -171,6 +181,16 @@
       "media": [
         "media/p22_1.jpg"
       ]
+    },
+    {
+      "id": 23,
+      "status": "held_sensitive",
+      "category": "female_influencer",
+      "title": null,
+      "text": "誰か助けてくれませんか…😭\n13才の娘の頭部にこれが大量に出来ているのを発見しました、、、\nこれが何かわかる人いますか？娘は完全にその話題を避けていて、私とは話してくれないんですよ…",
+      "media_type": "images",
+      "media_files": null,
+      "added_at": null
     },
     {
       "id": 24,
@@ -493,6 +513,19 @@
       "media": [
         "media/p64_1.mp4"
       ]
+    },
+    {
+      "id": 65,
+      "status": "held_sensitive",
+      "category": "female_influencer",
+      "title": "宮脇咲良 ライブ中の水飲み（動画＋画像）",
+      "text": "宮脇咲良ちゃんが水を飲んだ直後、急にキョロキョロしだして「なんでかな？」って思ったけどコメントで理由知って一気に血の気が引いた、、、\n\nやっぱ芸能界怖すぎるね…",
+      "media_type": "mixed",
+      "media_files": [
+        "media/preset65_video.mp4",
+        "media/preset65_img2.jpg"
+      ],
+      "added_at": "2026-11-16T02:28:00+09:00"
     },
     {
       "id": 66,
@@ -1990,6 +2023,6 @@
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 195,
+  "total_posts": 198,
   "max_id": 170
 }
