@@ -1,5 +1,5 @@
 {
-  "total": 199,
+  "total": 200,
   "posts": [
     {
       "id": 1,
@@ -2034,9 +2034,22 @@
       ],
       "added_at": "2026-11-23T00:58:00+09:00",
       "tree_reply": "歌舞伎町で規制線張られてた件、こういうことか、、\n\n怖すぎるだろ、、、\nhttps://linkmisty.com/c/m26mix714834/"
+    },
+    {
+      "id": 205,
+      "status": "queued",
+      "category": "news",
+      "is_news": true,
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "title": "【速報】声優・安野希世乃が結婚発表",
+      "text": "まぢかーー！！\nいい夫婦の日に結婚発表㊗️\n\nヒロアカ声優・安野希世乃おめでとう🎉\n\n#安野希世乃 #ヒロアカ #声優\n\nhttps://linkmisty.com/c/qlycz943714/",
+      "media_type": "text",
+      "media_files": null,
+      "added_at": "2026-11-23T03:39:30+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 199,
-  "max_id": 204
+  "total_posts": 200,
+  "max_id": 205
 }
