@@ -1921,9 +1921,21 @@
         "media/preset198_video.mp4"
       ],
       "added_at": "2026-11-22T19:17:00+09:00"
+    },
+    {
+      "id": 199,
+      "category": "celebrity_trend",
+      "is_celebrity": true,
+      "is_news": true,
+      "delete_after_40h": true,
+      "title": "SixTONES 56公演完走＆オーラス生配信（ニュース系）",
+      "text": "まぢかーー！！\nSixTONES 56公演完走おめでとう㊗️🎉\n\nオーラス生配信の花火と6人の円陣、本当に最高だった😭\n\n#MILESixTONES生配信 #SixTONES\n\nhttps://linkmisty.com/c/ivse153352/",
+      "media_type": null,
+      "media_files": null,
+      "added_at": "2026-11-22T19:56:00+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 190,
+  "total_posts": 191,
   "max_id": 170
 }
