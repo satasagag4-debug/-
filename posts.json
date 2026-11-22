@@ -1665,6 +1665,102 @@
       ],
       "source_url": "https://x.com/shihuangtimes/status/2124143585650159829",
       "added_at": "2026-11-22T17:56:00+09:00"
+    },
+    {
+      "id": 182,
+      "status": "queued",
+      "category": "celebrity_trend",
+      "text": "IZ*ONE アイズワンのイェナめっちゃ可愛いけど、何やってんだよww\n\nイェナは何がしたかったん？？\n\n誰かわかる人いる？？",
+      "media_type": "video",
+      "media": [
+        "media/preset182_video.mp4"
+      ],
+      "source_url": "https://x.com/i/status/2124368949597094279",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00",
+      "is_celebrity": true,
+      "delete_after_40h": true
+    },
+    {
+      "id": 183,
+      "status": "queued",
+      "category": "shock_visual",
+      "text": "まっぢでありえん😡😡\n\nイタズラ小僧の末路がやばい… \n\n周りも見て笑ってるだけって…\n\nこんな事あっていいのかよ…？？",
+      "media_type": "video",
+      "media": [
+        "media/preset183_video.mp4"
+      ],
+      "source_url": "https://x.com/i/status/2124302570546163837",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00"
+    },
+    {
+      "id": 184,
+      "status": "queued",
+      "category": "shock_visual",
+      "text": "あかん鳥肌がヤバい、、、\n\nこのくっつくものの正体わかる人いる？？\n\nめっちゃキモいけど見てしまうよ🫣🫣",
+      "media_type": "video",
+      "media": [
+        "media/preset184_video.mp4"
+      ],
+      "source_url": "https://x.com/i/status/2124368857276317808",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00"
+    },
+    {
+      "id": 185,
+      "status": "queued",
+      "category": "question_visual",
+      "text": "1人暮らしを始めた娘の写真が届いた…\n\n「お母さんも遊びに来てね♡」\n\n母は「今すぐその部屋を解約して出なさい！」と悲鳴をあげた\n\n理由分かる人いる？？",
+      "media_type": "image",
+      "media": [
+        "media/preset185_img1.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124332810991546826",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00"
+    },
+    {
+      "id": 186,
+      "status": "queued",
+      "category": "shock_visual",
+      "text": "え、、めっちゃこわい、、\n\n女性のピンチに、誰も助けようとしない中、たった一人の男性が取った行動が素晴らしかった…\n\nなぜみんなが避けていくのか、この動画の意味を知った時、めっちゃ怖くなったよ…",
+      "media_type": "video",
+      "media": [
+        "media/preset186_video.mp4"
+      ],
+      "source_url": "https://x.com/i/status/2124341266075034071",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00",
+      "is_train": true
+    },
+    {
+      "id": 187,
+      "status": "queued",
+      "category": "question_visual",
+      "text": "助けてくださいーーーーーー！\n\nキッチンで料理しながらふと下見るとこれ。。。\n\nまじでなんなの！？😱\n\n誰かわかる人教えて？",
+      "media_type": "image",
+      "media": [
+        "media/preset187_img1.jpg",
+        "media/preset187_img2.jpg"
+      ],
+      "source_url": "https://x.com/i/status/2124302385023750329",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00"
+    },
+    {
+      "id": 188,
+      "status": "queued",
+      "category": "shock_visual",
+      "text": "うわ、、まぢあぶないわ、、\n\nこの電車、ドア付近で人を押さえつけたり無理やり押し退けたりする人たちがいて、何が起きてるのか分からなくてコメ欄見たら理由知って背筋凍りついたわ、、、\n\nこれマジでやばすぎるだろ、、、、、",
+      "media_type": "video",
+      "media": [
+        "media/preset188_video.mp4"
+      ],
+      "source_url": "https://x.com/i/status/2124341473458172089",
+      "source_list": "2123225378663874730",
+      "added_at": "2026-11-22T18:22:00+09:00",
+      "is_train": true
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
