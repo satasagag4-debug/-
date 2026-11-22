@@ -2020,9 +2020,22 @@
         "media/preset203_video.mp4"
       ],
       "added_at": "2026-11-22T20:49:00+09:00"
+    },
+    {
+      "id": 204,
+      "status": "queued",
+      "category": "shock_visual",
+      "title": "新宿歌舞伎町一番街の規制線",
+      "text": "何があったんだろ？\n新宿歌舞伎町一番街に規制線張られてる\n\n火事では無さそうだけど……",
+      "media_type": "video_and_image",
+      "media_files": [
+        "media/preset204_video.mp4",
+        "media/preset204_img2.jpg"
+      ],
+      "added_at": "2026-11-23T00:58:00+09:00"
     }
   ],
   "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 198,
+  "total_posts": 199,
   "max_id": 170
 }
