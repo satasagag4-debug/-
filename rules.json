@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-22-r47",
+  "version": "2026-11-23-r48",
   "items": [
     {
       "no": 1,
@@ -134,8 +134,8 @@
       "added_at": "2026-11-22"
     }
   ],
-  "rules_version": "2026-11-22-r47",
-  "updated_at": "2026-11-23T03:26:00+09:00",
+  "rules_version": "2026-11-23-r48",
+  "updated_at": "2026-11-23T14:21:45+09:00",
   "rules": [
     {
       "id": "random_box_lottery",
