@@ -2047,9 +2047,19 @@
       "media_type": "text",
       "media_files": null,
       "added_at": "2026-11-23T03:39:30+09:00"
+    },
+    {
+      "id": 206,
+      "text": "嘘だろ…駅がこんなことになってるの初めて見たんだけど、何があったのか分からなくてコメント見たら理由がヤバすぎた、、、\n\nこれガチで帰れないやつじゃん…",
+      "category": "shock_visual",
+      "media_files": [
+        "media/preset206_video.mp4"
+      ],
+      "is_train": true,
+      "tree_reply": "こういう事情だったのか、、\n\n知ってから駅行くのマジで怖くなったわ、、、\n\nhttps://momentary.link/N5Qiyx"
     }
   ],
-  "updated_at": "2026-11-22T15:00:49+09:00",
-  "total_posts": 200,
-  "max_id": 205
+  "updated_at": "2026-11-23T18:50:20+09:00",
+  "total_posts": 201,
+  "max_id": 206
 }
