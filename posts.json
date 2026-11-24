@@ -2338,9 +2338,22 @@
       "created_at": "2026-11-24T20:08:23+09:00",
       "linkmisty_url": "https://linkmisty.com/c/t2yi7nrl/",
       "tree_reply": "知った瞬間ゾッとした、、\n\n闇深すぎるだろ、、、\n\nhttps://linkmisty.com/c/t2yi7nrl/"
+    },
+    {
+      "id": 224,
+      "title": "玄関の鍵穴の上のうっすら「×」注意喚起",
+      "text": "玄関の鍵穴の上、うっすら「×」ついてたらマジで気をつけろ。\n\nこれ見かけたら絶対そのままにしない方がいいやつだから…",
+      "media": [
+        "media/preset224_img1.jpg"
+      ],
+      "status": "queued",
+      "is_winning": false,
+      "added_at": "2026-11-24T22:09:23+09:00",
+      "source_url": null,
+      "graduated": false
     }
   ],
-  "updated_at": "2026-11-24T21:18:56+09:00",
-  "total_posts": 218,
-  "max_id": 223
+  "updated_at": "2026-11-24T22:09:23+09:00",
+  "total_posts": 219,
+  "max_id": 224
 }
