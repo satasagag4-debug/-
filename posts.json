@@ -2300,9 +2300,20 @@
       "media": [],
       "media_files": null,
       "added_at": "2026-11-24T19:09:18+09:00"
+    },
+    {
+      "id": 222,
+      "category": "shock_visual",
+      "title": "谷九のホテル街に消防車とパトカー出動",
+      "text": "谷九のホテル街がとんでもないことになってる…\n\nコレマジで何があったんだ？",
+      "media": [
+        "media/preset222_img1.jpg"
+      ],
+      "source_url": "https://x.com/19881229win/status/2125106139797090309",
+      "created_at": "2026-11-24T19:20:58+09:00"
     }
   ],
-  "updated_at": "2026-11-24T19:09:25+09:00",
-  "total_posts": 216,
-  "max_id": 221
+  "updated_at": "2026-11-24T19:20:58+09:00",
+  "total_posts": 217,
+  "max_id": 222
 }
