@@ -2315,9 +2315,21 @@
       ],
       "source_url": "https://x.com/19881229win/status/2125106139797090309",
       "created_at": "2026-11-24T19:20:58+09:00"
+    },
+    {
+      "id": 223,
+      "category": "shock_visual",
+      "title": "トイレ交換で開けたら謎の機械ユニット",
+      "text": "トイレの調子悪くて交換しようと開けたら、なんか変な機械出てきた…\n\nえ、これこわすぎる。なんなの？",
+      "media": [
+        "media/preset223_img1.jpg",
+        "media/preset223_img2.jpg"
+      ],
+      "source_url": "https://x.com/dau_chan_com/status/2124969069929713940",
+      "created_at": "2026-11-24T20:08:23+09:00"
     }
   ],
-  "updated_at": "2026-11-24T19:53:32+09:00",
-  "total_posts": 217,
-  "max_id": 222
+  "updated_at": "2026-11-24T20:08:23+09:00",
+  "total_posts": 218,
+  "max_id": 223
 }
