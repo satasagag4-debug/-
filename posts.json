@@ -2329,7 +2329,7 @@
       "id": 223,
       "category": "shock_visual",
       "title": "トイレ交換で開けたら謎の機械ユニット",
-      "text": "トイレの調子悪くて交換しようと開けたら、なんか変な機械出てきた…\n\nえ、これこわすぎる。なんなの？",
+      "text": "トイレの調子悪くて開けたら、なんか変なの出てきたんだけど…\n\nえ、これこわすぎる。なんなの？",
       "media": [
         "media/preset223_img1.jpg",
         "media/preset223_img2.jpg"
@@ -2340,7 +2340,7 @@
       "tree_reply": "知った瞬間ゾッとした、、\n\n闇深すぎるだろ、、、\n\nhttps://linkmisty.com/c/t2yi7nrl/"
     }
   ],
-  "updated_at": "2026-11-24T21:18:28+09:00",
+  "updated_at": "2026-11-24T21:18:56+09:00",
   "total_posts": 218,
   "max_id": 223
 }
