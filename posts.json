@@ -1,5 +1,5 @@
 {
- "total": 208,
+ "total": 210,
  "posts": [
   {
    "id": 1,
@@ -2168,6 +2168,36 @@
    ],
    "source_url": "https://x.com/smile_kun422/status/2124698209612386673",
    "added_at": "2026-11-24T01:09:35+09:00"
+  },
+  {
+   "id": 214,
+   "status": "queued",
+   "category": "quiz",
+   "title": "ナポリタン大喜利（『タ』を使わずに表して下さい）",
+   "text": "これを『タ』を使わずに表して下さい",
+   "media_type": "video",
+   "media_files": [
+    "media/preset214_video.mp4"
+   ],
+   "source_url": "https://x.com/kikomotu/status/2124671027418735043",
+   "added_at": "2026-11-24T12:49:35+09:00"
+  },
+  {
+   "id": 215,
+   "status": "queued",
+   "category": "celebrity_trend",
+   "title": "椎名林檎→ちゃんみな 長文メッセージ（EIGHT-JAM）",
+   "text": "椎名林檎がちゃんみなに送った長文メッセージが話題になってる\n\n最後の「あなたは、まさに“愛と知の女神”です。」で完全に持ってかれた、、、\n\nちゃんみなも「うれしすぎる…」と感激してたらしい",
+   "media_type": "image",
+   "media_files": [
+    "media/preset215_img1.jpg"
+   ],
+   "source_url": "https://x.com/R_son0130/status/2124812927844921542",
+   "added_at": "2026-11-24T12:49:35+09:00",
+   "source_list": "2123224686641463561",
+   "is_celebrity": true,
+   "is_news": true,
+   "delete_after_40h": true
   }
  ],
  "updated_at": "2026-11-24T01:02:05+09:00",
