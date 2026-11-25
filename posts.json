@@ -1,5 +1,5 @@
 {
-  "total": 221,
+  "total": 223,
   "posts": [
     {
       "id": 1,
@@ -2397,9 +2397,26 @@
       ],
       "source_url": "https://x.com/kingakruszynsk1/status/2125418967380770833",
       "created_at": "2026-11-25T18:29:57.797461+09:00"
+    },
+    {
+      "id": 228,
+      "status": "queued",
+      "category": "news",
+      "is_news": true,
+      "is_trend_news": true,
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "title": "【速報】石川佳純さん結婚発表　五輪3大会連続メダリスト",
+      "text": "まぢかーー！！\n石川佳純さんが結婚発表㊗️🎉\n\n卓球・五輪3大会連続メダリストで33歳。お相手は「かねてよりお付き合いしている方」で、「笑顔溢れる家庭を築いていけたら」とコメントしてる…！\n\n#石川佳純 #卓球\n\nhttps://linkmisty.com/c/osy2r4931114/",
+      "media_type": "text",
+      "media": [],
+      "media_files": null,
+      "linkmisty_url": "https://linkmisty.com/c/osy2r4931114/",
+      "linkmisty_card_id": "11073",
+      "added_at": "2026-11-25T19:10:01+09:00"
     }
   ],
-  "updated_at": "2026-11-25T18:29:57.797461+09:00",
-  "total_posts": 222,
-  "max_id": 227
+  "updated_at": "2026-11-25T19:10:01.743862+09:00",
+  "total_posts": 223,
+  "max_id": 228
 }
