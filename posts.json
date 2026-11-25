@@ -33,7 +33,8 @@
       "media": [
         "media/p4_1.mp4"
       ],
-      "tree_reply": "こういうことだったみたい、、\n\n怖すぎる、、\n\nhttps://momentary.link/V98zwa"
+      "tree_reply": "こういうことだったみたい、、\n\n怖すぎる、、\n\nhttps://momentary.link/V98zwa",
+      "tree_reply_required": true
     },
     {
       "id": 5,
@@ -42,7 +43,8 @@
       "media": [
         "media/p5_1.mp4"
       ],
-      "tree_reply": "問題の答えこれか、、、\n\nそりゃリプ欄の人全員間違えるわけだ、、\n\nhttps://linkmisty.com/c/5bam9sb/"
+      "tree_reply": "問題の答えこれか、、、\n\nそりゃリプ欄の人全員間違えるわけだ、、\n\nhttps://linkmisty.com/c/5bam9sb/",
+      "tree_reply_required": true
     },
     {
       "id": 6,
@@ -51,7 +53,8 @@
       "media": [
         "media/p6_1.jpg"
       ],
-      "tree_reply": "問題の答えこれらしいです、、\n\n解説なしでわかるわけなくて草\n\nhttps://momentary.link/tMPavp"
+      "tree_reply": "問題の答えこれらしいです、、\n\n解説なしでわかるわけなくて草\n\nhttps://momentary.link/tMPavp",
+      "tree_reply_required": true
     },
     {
       "id": 7,
@@ -93,7 +96,8 @@
         "media/p11_1.mp4"
       ],
       "tree_reply": "当てられなかった理由これか、、\n\n闇深すぎるだろ、、、\n\nhttps://linkmisty.com/c/uimq424204/",
-      "linkmisty_url": "https://linkmisty.com/c/uimq424204/"
+      "linkmisty_url": "https://linkmisty.com/c/uimq424204/",
+      "tree_reply_required": true
     },
     {
       "id": 12,
@@ -102,7 +106,8 @@
       "media": [
         "media/p12_1.mp4"
       ],
-      "tree_reply": "続きの動画あって煙の正体これらしいです、、、\n\n部屋の中の動画まであってやばいwww\n\nhttps://momentary.link/Y0t8PM"
+      "tree_reply": "続きの動画あって煙の正体これらしいです、、、\n\n部屋の中の動画まであってやばいwww\n\nhttps://momentary.link/Y0t8PM",
+      "tree_reply_required": true
     },
     {
       "id": 13,
@@ -111,7 +116,8 @@
       "media": [
         "media/p13_1.mp4"
       ],
-      "tree_reply": "こういうことだったんだね、、\n\nニュースで放送されててなんでこうなってるのかやっとわかった\n\n怖すぎる、、、\n\nhttps://momentary.link/CebjUE"
+      "tree_reply": "こういうことだったんだね、、\n\nニュースで放送されててなんでこうなってるのかやっとわかった\n\n怖すぎる、、、\n\nhttps://momentary.link/CebjUE",
+      "tree_reply_required": true
     },
     {
       "id": 14,
@@ -136,7 +142,8 @@
       "media": [
         "media/p16_1.mp4"
       ],
-      "tree_reply": "こういうことだったんだ、、、\n\n天才すぎる、、、\n\nhttps://momentary.link/WZhQYP"
+      "tree_reply": "こういうことだったんだ、、、\n\n天才すぎる、、、\n\nhttps://momentary.link/WZhQYP",
+      "tree_reply_required": true
     },
     {
       "id": 17,
@@ -331,7 +338,8 @@
         "media/p40_1.mp4",
         "media/p40_2.jpg"
       ],
-      "tree_reply": "正体これらしいです、、\n\n不気味すぎませんか、、、\n\nhttps://linkmisty.com/c/44rha0d4b/"
+      "tree_reply": "正体これらしいです、、\n\n不気味すぎませんか、、、\n\nhttps://linkmisty.com/c/44rha0d4b/",
+      "tree_reply_required": true
     },
     {
       "id": 41,
@@ -370,7 +378,8 @@
       "tree_reply": "周りの男たち最低すぎてドン引きしたわ…\n裏の経緯これらしいけど胸糞すぎる👇\n\nhttps://momentary.link/VCSy73",
       "media_files": [
         "media/preset44_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 47,
@@ -388,7 +397,8 @@
         "media/p48_1.mp4",
         "media/p48_2.jpg"
       ],
-      "tree_reply": "こういうことだったみたい、、\n\n芸能界闇深すぎるだろ...\n\nhttps://linkmisty.com/c/aaudgf3/"
+      "tree_reply": "こういうことだったみたい、、\n\n芸能界闇深すぎるだろ...\n\nhttps://linkmisty.com/c/aaudgf3/",
+      "tree_reply_required": true
     },
     {
       "id": 49,
@@ -398,7 +408,8 @@
         "media/p49_1.mp4"
       ],
       "linkmisty_url": "https://linkmisty.com/c/cn7xu411605/",
-      "tree_reply": "問題の答えこれらしいです、、、\n\nこんなの解説なしで解けるわけなくて草\n\nhttps://linkmisty.com/c/cn7xu411605/"
+      "tree_reply": "問題の答えこれらしいです、、、\n\nこんなの解説なしで解けるわけなくて草\n\nhttps://linkmisty.com/c/cn7xu411605/",
+      "tree_reply_required": true
     },
     {
       "id": 51,
@@ -459,7 +470,8 @@
         "media/p57_2.jpg"
       ],
       "tree_reply": "正体これらしいです\n\nhttps://linkmisty.com/c/gpbjvo9q/",
-      "linkmisty_url": "https://linkmisty.com/c/gpbjvo9q/"
+      "linkmisty_url": "https://linkmisty.com/c/gpbjvo9q/",
+      "tree_reply_required": true
     },
     {
       "id": 58,
@@ -502,7 +514,8 @@
       "media": [
         "media/p62_1.mp4"
       ],
-      "tree_reply": "続きの動画あって煙の正体これらしいです、、、\n\n部屋の中の動画まであってやばいwww\n\nhttps://momentary.link/Y0t8PM"
+      "tree_reply": "続きの動画あって煙の正体これらしいです、、、\n\n部屋の中の動画まであってやばいwww\n\nhttps://momentary.link/Y0t8PM",
+      "tree_reply_required": true
     },
     {
       "id": 63,
@@ -519,7 +532,8 @@
       "media": [
         "media/p64_1.mp4"
       ],
-      "tree_reply": "こういうことだったんだ、、\n\n怖すぎるだろ、、、\n\nhttps://momentary.link/ar7gf3"
+      "tree_reply": "こういうことだったんだ、、\n\n怖すぎるだろ、、、\n\nhttps://momentary.link/ar7gf3",
+      "tree_reply_required": true
     },
     {
       "id": 65,
@@ -553,7 +567,8 @@
       "media": [
         "media/p67_1.jpg"
       ],
-      "tree_reply": "捨てちゃいけない理由がわからない人へ\n\n私もこの動画を見るまでは舐めてたんでちゃんと目を通してほしいです\n\nマジで気をつけてください\n\nhttps://momentary.link/cfLjdK"
+      "tree_reply": "捨てちゃいけない理由がわからない人へ\n\n私もこの動画を見るまでは舐めてたんでちゃんと目を通してほしいです\n\nマジで気をつけてください\n\nhttps://momentary.link/cfLjdK",
+      "tree_reply_required": true
     },
     {
       "id": 68,
@@ -595,7 +610,8 @@
         "media/p72_1.jpg"
       ],
       "linkmisty_url": "https://linkmisty.com/c/9xz498970/",
-      "tree_reply": "引っかかった人多そう、、\n\n答えはこれ\n\nhttps://linkmisty.com/c/9xz498970/"
+      "tree_reply": "引っかかった人多そう、、\n\n答えはこれ\n\nhttps://linkmisty.com/c/9xz498970/",
+      "tree_reply_required": true
     },
     {
       "id": 73,
@@ -740,7 +756,8 @@
         "media/p89_1.mp4"
       ],
       "category": "shock_visual",
-      "tree_reply": "こういう事情があったみたいです\n\nこれなら自分もやってしまうかもなぁ、、、同情できんわ\n\nhttps://linkmisty.com/c/0rydn679353/"
+      "tree_reply": "こういう事情があったみたいです\n\nこれなら自分もやってしまうかもなぁ、、、同情できんわ\n\nhttps://linkmisty.com/c/0rydn679353/",
+      "tree_reply_required": true
     },
     {
       "id": 90,
@@ -996,7 +1013,8 @@
         "media/p115_1.jpg"
       ],
       "linkmisty_url": "https://linkmisty.com/c/j4xnv693437/",
-      "tree_reply": "正解これらしいです\n\nhttps://linkmisty.com/c/j4xnv693437/"
+      "tree_reply": "正解これらしいです\n\nhttps://linkmisty.com/c/j4xnv693437/",
+      "tree_reply_required": true
     },
     {
       "id": 116,
@@ -1040,7 +1058,8 @@
       "media": [
         "media/p120_1.jpg"
       ],
-      "tree_reply": "コレ解説なしで解けるわけないだろ...\n\nリプ欄の人全員間違えてるやん...\n\nhttps://linkmisty.com/c/u03vzie/"
+      "tree_reply": "コレ解説なしで解けるわけないだろ...\n\nリプ欄の人全員間違えてるやん...\n\nhttps://linkmisty.com/c/u03vzie/",
+      "tree_reply_required": true
     },
     {
       "id": 121,
@@ -1050,7 +1069,8 @@
         "media/p121_1.jpg",
         "media/p121_2.jpg"
       ],
-      "tree_reply": "米が直立する理由はこれですね。\n知らないと最初はびっくりしますよね。\n\nhttps://linkmisty.com/c/kpmyx2g/"
+      "tree_reply": "米が直立する理由はこれですね。\n知らないと最初はびっくりしますよね。\n\nhttps://linkmisty.com/c/kpmyx2g/",
+      "tree_reply_required": true
     },
     {
       "id": 122,
@@ -1067,7 +1087,8 @@
       "media": [
         "media/p123_1.mp4"
       ],
-      "tree_reply": "こういうことだったんだ、、、\n\n天才すぎる、、、\n\nhttps://momentary.link/WZhQYP"
+      "tree_reply": "こういうことだったんだ、、、\n\n天才すぎる、、、\n\nhttps://momentary.link/WZhQYP",
+      "tree_reply_required": true
     },
     {
       "id": 124,
@@ -1208,7 +1229,8 @@
         "media/p137_2.jpg"
       ],
       "added_at": "2026-11-19T14:13:00+09:00",
-      "tree_reply": "大人が何度見ても全然わからなくて悔しかったけど、ここの解説見たらやっと分かった…こんなの子供じゃないとわからんわ、、\nhttps://linkmisty.com/c/z6z44590305/"
+      "tree_reply": "大人が何度見ても全然わからなくて悔しかったけど、ここの解説見たらやっと分かった…こんなの子供じゃないとわからんわ、、\nhttps://linkmisty.com/c/z6z44590305/",
+      "tree_reply_required": true
     },
     {
       "id": 138,
@@ -1340,7 +1362,8 @@
       ],
       "tree_reply": "いやこれはさすがにドン引きした…\n今の時代にこんなこと起きるんだな\n\nhttps://linkmisty.com/c/cwfmyzi/",
       "category": "shock_visual",
-      "is_train": true
+      "is_train": true,
+      "tree_reply_required": true
     },
     {
       "id": 150,
@@ -1415,7 +1438,8 @@
       "tree_reply": "このあと現場で何が起きてたのか分かってゾッとした…詳細と別角度の動画ここにありました↓\nhttps://linkmisty.com/c/18t6eor/",
       "media": [
         "media/p155_1.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 156,
@@ -1453,7 +1477,9 @@
       "is_train": false,
       "source_url": "https://x.com/ahaaaann765/status/2123685468609155364",
       "added_at": "2026-11-20T19:26:35+09:00",
-      "is_news": true
+      "is_news": true,
+      "tree_reply": "登録無料の神ゲー👇　P R\n\nhttps://momentary.link/YiKRUA",
+      "tree_reply_required": true
     },
     {
       "id": 158,
@@ -1519,7 +1545,8 @@
       "source_list": "2123225378663874730",
       "added_at": "2026-11-20T21:06:41.372094+09:00",
       "is_train": true,
-      "tree_reply": "こんなの言われなきゃ絶対わかるわけないｗｗｗ\n1→2→3→4じゃない理由これらしい👇\n\nhttps://linkmisty.com/c/r8t1emv/"
+      "tree_reply": "こんなの言われなきゃ絶対わかるわけないｗｗｗ\n1→2→3→4じゃない理由これらしい👇\n\nhttps://linkmisty.com/c/r8t1emv/",
+      "tree_reply_required": true
     },
     {
       "id": 163,
@@ -1631,7 +1658,8 @@
       "source_url": "https://x.com/sol_sansan/status/2123785748868714541",
       "source_author": "@sol_sansan",
       "tree_reply": "駅が封鎖された理由ってこういうことか、、\n\nヤバすぎるだろ、、、\n\nhttps://linkmisty.com/c/p96e812920/",
-      "linkmisty_url": "https://linkmisty.com/c/p96e812920/"
+      "linkmisty_url": "https://linkmisty.com/c/p96e812920/",
+      "tree_reply_required": true
     },
     {
       "id": 173,
@@ -1649,7 +1677,8 @@
       "tree_reply": "そういう理由があったのか、、\n\nマジかよ、、、\n\nhttps://linkmisty.com/c/jjq0d342566/",
       "media": [
         "media/preset173_img1.jpg"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 174,
@@ -1682,7 +1711,8 @@
       "source_url": "https://x.com/ranggalagie/status/2124151308026589241",
       "added_at": "2026-11-22T12:26:24+09:00",
       "linkmisty_url": "https://linkmisty.com/c/jkvan385199/",
-      "tree_reply": "電車を止めてた理由ってこういうことか、、\n\n最初は普通に迷惑だと思ってたのに\n\nhttps://linkmisty.com/c/jkvan385199/"
+      "tree_reply": "電車を止めてた理由ってこういうことか、、\n\n最初は普通に迷惑だと思ってたのに\n\nhttps://linkmisty.com/c/jkvan385199/",
+      "tree_reply_required": true
     },
     {
       "id": 176,
@@ -1719,7 +1749,8 @@
         "media/preset177_img2.jpg",
         "media/preset177_img3.jpg",
         "media/preset177_img4.jpg"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 178,
@@ -1732,7 +1763,8 @@
       ],
       "source_url": "https://x.com/yokose_banana/status/2124125121359315419",
       "added_at": "2026-11-22T17:24:00+09:00",
-      "tree_reply": "え、これ彫師が練習で使った豚皮そのまま流れてきたんじゃなくて、まさかの理由だったの怖すぎる…\nhttps://linkmisty.com/c/6zuz9540069/"
+      "tree_reply": "え、これ彫師が練習で使った豚皮そのまま流れてきたんじゃなくて、まさかの理由だったの怖すぎる…\nhttps://linkmisty.com/c/6zuz9540069/",
+      "tree_reply_required": true
     },
     {
       "id": 179,
@@ -1746,7 +1778,8 @@
       ],
       "source_url": "https://x.com/tp317/status/2124320725020631290",
       "added_at": "2026-11-22T17:34:00+09:00",
-      "tree_reply": "え、ただ焦げたお札かと思ったら全く別のヤバい使い道だったの怖すぎる…受け取った人かわいそう\nhttps://linkmisty.com/c/b0hu435743/"
+      "tree_reply": "え、ただ焦げたお札かと思ったら全く別のヤバい使い道だったの怖すぎる…受け取った人かわいそう\nhttps://linkmisty.com/c/b0hu435743/",
+      "tree_reply_required": true
     },
     {
       "id": 180,
@@ -1841,7 +1874,8 @@
       "added_at": "2026-11-22T18:22:00+09:00",
       "is_train": true,
       "linkmisty_url": "https://linkmisty.com/c/xk174p977190/",
-      "tree_reply": "みんなが避けていく理由ってこれか、、\n\n知った瞬間ゾッとした、、、\n\nhttps://linkmisty.com/c/xk174p977190/"
+      "tree_reply": "みんなが避けていく理由ってこれか、、\n\n知った瞬間ゾッとした、、、\n\nhttps://linkmisty.com/c/xk174p977190/",
+      "tree_reply_required": true
     },
     {
       "id": 187,
@@ -2017,7 +2051,8 @@
       "linkmisty_url": "https://linkmisty.com/c/46f940054/",
       "media": [
         "media/preset198_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 199,
@@ -2044,7 +2079,8 @@
       "tree_reply": "お皿使わずに直接テーブルに山盛りにしている本当の理由、知った瞬間ゾッとした…\nhttps://linkmisty.com/c/xjimhy446652/",
       "media": [
         "media/preset200_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 201,
@@ -2059,7 +2095,8 @@
       "tree_reply": "これ現場で何してたのか正体知ったら、賢すぎて二度見するわ…詳しい解説と続きはこちら↓\nhttps://linkmisty.com/c/2wbs09612037/",
       "media": [
         "media/preset201_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 202,
@@ -2074,7 +2111,8 @@
       "tree_reply": "ぶつかりまくる理由ってこういうことか、、\n\n闇深すぎるだろ、、、\nhttps://linkmisty.com/c/03tv898361/",
       "media": [
         "media/preset202_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 203,
@@ -2107,7 +2145,8 @@
       "media": [
         "media/preset204_video.mp4",
         "media/preset204_img2.jpg"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 205,
@@ -2133,7 +2172,8 @@
       "tree_reply": "こういう事情だったのか、、\n\n知ってから駅行くのマジで怖くなったわ、、、\n\nhttps://momentary.link/N5Qiyx",
       "media": [
         "media/preset206_video.mp4"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 207,
@@ -2178,7 +2218,8 @@
       "linkmisty_url": "https://linkmisty.com/c/wrhfol584149/",
       "media": [
         "media/preset209_img1.jpg"
-      ]
+      ],
+      "tree_reply_required": true
     },
     {
       "id": 210,
@@ -2434,7 +2475,8 @@
       "source_url": "https://x.com/dau_chan_com/status/2124969069929713940",
       "created_at": "2026-11-24T20:08:23+09:00",
       "linkmisty_url": "https://linkmisty.com/c/t2yi7nrl/",
-      "tree_reply": "知った瞬間ゾッとした、、\n\n闇深すぎるだろ、、、\n\nhttps://linkmisty.com/c/t2yi7nrl/"
+      "tree_reply": "知った瞬間ゾッとした、、\n\n闇深すぎるだろ、、、\n\nhttps://linkmisty.com/c/t2yi7nrl/",
+      "tree_reply_required": true
     },
     {
       "id": 224,
@@ -2449,7 +2491,8 @@
       "source_url": null,
       "graduated": false,
       "linkmisty_url": "https://linkmisty.com/c/aic8quuah/",
-      "tree_reply": "「×」の意味ってこういうことか、、気づかないまま出かけてたの怖すぎる\n\nhttps://linkmisty.com/c/aic8quuah/"
+      "tree_reply": "「×」の意味ってこういうことか、、気づかないまま出かけてたの怖すぎる\n\nhttps://linkmisty.com/c/aic8quuah/",
+      "tree_reply_required": true
     },
     {
       "id": 225,
@@ -2465,7 +2508,8 @@
       "source_url": "https://x.com/dwellrain/status/2124871392160256482",
       "graduated": false,
       "linkmisty_url": "https://linkmisty.com/c/iflwc814658/",
-      "tree_reply": "答えこれらしいです\n\nhttps://linkmisty.com/c/iflwc814658/"
+      "tree_reply": "答えこれらしいです\n\nhttps://linkmisty.com/c/iflwc814658/",
+      "tree_reply_required": true
     },
     {
       "id": 226,
@@ -2526,7 +2570,7 @@
       "consecutive_under_10k": 0
     }
   ],
-  "updated_at": "2026-11-25T23:49:52.917913+09:00",
+  "updated_at": "2026-11-26T00:42:04.173903+09:00",
   "total_posts": 224,
   "max_id": 229
 }
