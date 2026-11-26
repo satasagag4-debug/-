@@ -2614,9 +2614,26 @@
       "created_at": "2026-11-26T14:33:09.377183+09:00",
       "tree_reply": "乾いてる理由こういうことらしいです、、\n\nもう水飲めない、、\n\nhttps://momentary.link/vinVgC",
       "tree_reply_required": true
+    },
+    {
+      "id": 232,
+      "category": "shock_visual",
+      "title": "秋葉原ヨドバシ神座の若い女性大行列",
+      "text": "秋葉原のヨドバシ1階にある「神座」行こうとしたら、なぜか若い女の子が30人くらい大行列作っててビビった…\n\nこれ一体なにが起きてるの？？",
+      "media": [
+        "media/preset232_img1.jpg"
+      ],
+      "source_url": "https://x.com/akibaru2022/status/2125812942780444991",
+      "source_author": "akibaru2022",
+      "status": "ready",
+      "created_at": "2026-11-26T17:39:53.999137+09:00",
+      "post_count": 0,
+      "last_posted_at": null,
+      "tree_reply": null,
+      "tree_reply_required": false
     }
   ],
-  "updated_at": "2026-11-26T17:18:16.962804+09:00",
+  "updated_at": "2026-11-26T17:39:53.999137+09:00",
   "total_posts": 225,
   "max_id": 230
 }
