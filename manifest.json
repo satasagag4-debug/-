@@ -1,29 +1,29 @@
 {
-  "version": 1,
-  "updated_at": "2026-11-26T17:39:53.999137+09:00",
-  "total_posts": 227,
-  "max_id": 232,
-  "rules_version": "2026-11-26-r53",
-  "files": {
-    "posts": "posts.json",
-    "rules": "rules.md",
-    "rules_json": "rules.json",
-    "precheck_script": "scripts/precheck_slot.py"
-  },
-  "removed_ids": [
-    27
-  ],
-  "media_repaired_ids": [
-    28,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61
-  ]
+ "version": 1,
+ "updated_at": "2026-11-26T19:10:12+09:00",
+ "total_posts": 228,
+ "max_id": 233,
+ "rules_version": "2026-11-26-r53",
+ "files": {
+  "posts": "posts.json",
+  "rules": "rules.md",
+  "rules_json": "rules.json",
+  "precheck_script": "scripts/precheck_slot.py"
+ },
+ "removed_ids": [
+  27
+ ],
+ "media_repaired_ids": [
+  28,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61
+ ]
 }
