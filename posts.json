@@ -2461,7 +2461,10 @@
         "media/preset222_img1.jpg"
       ],
       "source_url": "https://x.com/19881229win/status/2125106139797090309",
-      "created_at": "2026-11-24T19:20:58+09:00"
+      "created_at": "2026-11-24T19:20:58+09:00",
+      "tree_reply": "ホテル街がこの状態になってた理由、知ったらゾッとする、、、\n\nhttps://linkmisty.com/c/5d95f375100/",
+      "tree_reply_required": true,
+      "linkmisty_url": "https://linkmisty.com/c/5d95f375100/"
     },
     {
       "id": 223,
@@ -2598,7 +2601,7 @@
       "tree_reply_required": true
     }
   ],
-  "updated_at": "2026-11-26T14:33:09.377183+09:00",
+  "updated_at": "2026-11-26T16:03:08.955354+09:00",
   "total_posts": 225,
   "max_id": 230
 }
