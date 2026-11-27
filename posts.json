@@ -2668,7 +2668,10 @@
       "source_url": "https://x.com/rot__01/status/2125645259824865375",
       "added_at": "2026-11-27T02:10:13.989413+09:00",
       "post_count": 0,
-      "comment": "2026-11-27 02:09ユーザー個別送信（アラビア語元ポストを普段の構文へ変換・重複なし）"
+      "comment": "2026-11-27 02:09ユーザー個別送信（アラビア語元ポストを普段の構文へ変換・重複なし）",
+      "linkmisty_url": "https://linkmisty.com/c/92cundr/",
+      "tree_reply": "ベッドで見たもの、想像の斜め上すぎたんだけど\n理由は全部ここにあります\nhttps://linkmisty.com/c/92cundr/",
+      "tree_reply_required": true
     },
     {
       "id": 235,
@@ -2805,7 +2808,7 @@
       "tree_reply_required": false
     }
   ],
-  "updated_at": "2026-11-28T04:22:43.975914+09:00",
+  "updated_at": "2026-11-28T04:23:17.352253+09:00",
   "total_posts": 231,
   "max_id": 240
 }
