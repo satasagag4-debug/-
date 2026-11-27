@@ -2786,9 +2786,26 @@
       "tree_reply_required": true,
       "linkmisty_url": "https://linkmisty.com/c/ol10ny2/",
       "tree_reply": "お皿の投入口にスマホ吸い込まれて、まじで終わった\nその後どうなったか全部ここ\nhttps://linkmisty.com/c/ol10ny2/"
+    },
+    {
+      "id": 242,
+      "title": "STARTOビジュアルTier表（キムタク位置ツッコミ）",
+      "text": "キムタクその位置は舐めすぎで草",
+      "media_type": "image",
+      "media": [
+        "media/preset242_img1.jpg"
+      ],
+      "status": "queued",
+      "category": "celebrity_trend",
+      "is_celebrity": true,
+      "delete_after_40h": true,
+      "sotsualu_test_ratio": 0.1,
+      "test_until": "2026-12-05",
+      "added_at": "2026-11-28T04:18:55.361048+09:00",
+      "tree_reply_required": true
     }
   ],
-  "updated_at": "2026-11-27T22:49:31.192923+09:00",
+  "updated_at": "2026-11-28T04:18:55.361048+09:00",
   "total_posts": 231,
   "max_id": 240
 }
