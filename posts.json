@@ -369,7 +369,10 @@
       "media": [
         "media/p38_1.mp4",
         "media/p38_2.jpg"
-      ]
+      ],
+      "linkmisty_url": "https://linkmisty.com/c/58jlqff/",
+      "tree_reply": "息子が触ってたの、これだったみたいです\nさすがに病院連れてく\nhttps://linkmisty.com/c/58jlqff/",
+      "tree_reply_required": true
     },
     {
       "id": 39,
@@ -378,7 +381,10 @@
       "media": [
         "media/p39_1.jpg",
         "media/p39_2.jpg"
-      ]
+      ],
+      "linkmisty_url": "https://linkmisty.com/c/pw6w951151/",
+      "tree_reply": "これ何なのか気になって調べたら…\nゾッとした\nhttps://linkmisty.com/c/pw6w951151/",
+      "tree_reply_required": true
     },
     {
       "id": 40,
@@ -398,7 +404,10 @@
       "media": [
         "media/p41_1.jpg",
         "media/p41_2.jpg"
-      ]
+      ],
+      "linkmisty_url": "https://linkmisty.com/c/m8211785/",
+      "tree_reply": "蛾だと思ってたら違ったみたいです\n知ってから見る目変わった\nhttps://linkmisty.com/c/m8211785/",
+      "tree_reply_required": true
     },
     {
       "id": 42,
@@ -407,7 +416,10 @@
       "media": [
         "media/p42_1.mp4",
         "media/p42_2.jpg"
-      ]
+      ],
+      "linkmisty_url": "https://linkmisty.com/c/qvt1dfv/",
+      "tree_reply": "腫れが引かない理由、これでした\nゾッとする\nhttps://linkmisty.com/c/qvt1dfv/",
+      "tree_reply_required": true
     },
     {
       "id": 43,
@@ -475,7 +487,10 @@
       "media_type": "video",
       "media": [
         "media/p52_1.mp4"
-      ]
+      ],
+      "linkmisty_url": "https://linkmisty.com/c/t679ii120182/",
+      "tree_reply": "小1の宿題、答えこれらしいです\n大人でも分からん\nhttps://linkmisty.com/c/t679ii120182/",
+      "tree_reply_required": true
     },
     {
       "id": 53,
@@ -2808,7 +2823,7 @@
       "tree_reply_required": false
     }
   ],
-  "updated_at": "2026-11-28T04:23:17.352253+09:00",
+  "updated_at": "2026-11-28T04:24:02.918917+09:00",
   "total_posts": 231,
   "max_id": 240
 }
