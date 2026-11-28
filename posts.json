@@ -2821,9 +2821,36 @@
       "test_until": "2026-12-05",
       "added_at": "2026-11-28T04:18:55.361048+09:00",
       "tree_reply_required": false
+    },
+    {
+      "id": 243,
+      "title": "出張中の夫から届いたホテルの部屋写真（謎解き）",
+      "text": "出張中の夫から「今日は一人だから、ぐっすり眠れるよ」とホテルの部屋の写真が送られてきた。\n\nなにかおかしいと思ってよく見たら、、\n\nゾッとしたんだが、、、",
+      "media_type": "image",
+      "media": [
+        "media/preset243_img1.jpg"
+      ],
+      "status": "queued",
+      "category": "mystery",
+      "is_celebrity": false,
+      "source_url": "https://x.com/aller_seelen321/status/2126250078721777792",
+      "added_at": "2026-11-28T08:10:00+09:00",
+      "tree_reply_required": true
+    },
+    {
+      "id": 244,
+      "status": "held_sensitive",
+      "title": "腕に大量のデキモノ（医療系・隔離）",
+      "text": "",
+      "media_type": "video",
+      "media": [
+        "media/preset244_video.mp4"
+      ],
+      "source_url": "https://x.com/mohanrajv51091/status/2126300272234475850",
+      "created_at": "2026-11-28T08:10:00+09:00"
     }
   ],
-  "updated_at": "2026-11-28T04:24:02.918917+09:00",
+  "updated_at": "2026-11-28T10:51:41.992924+09:00",
   "total_posts": 231,
   "max_id": 240
 }
