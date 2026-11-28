@@ -773,7 +773,9 @@
       "media_type": "video",
       "media": [
         "media/p84_1.mp4"
-      ]
+      ],
+      "source_url": "https://x.com/nancyjenni89581/status/2126466706898145785",
+      "media_updated_at": "2026-11-28T15:04:08.639005+09:00"
     },
     {
       "id": 85,
@@ -2850,7 +2852,7 @@
       "created_at": "2026-11-28T08:10:00+09:00"
     }
   ],
-  "updated_at": "2026-11-28T10:51:41.992924+09:00",
+  "updated_at": "2026-11-28T15:04:08.639005+09:00",
   "total_posts": 231,
   "max_id": 240
 }
